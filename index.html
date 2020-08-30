@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<base data-ice="baseUrl" />
+		<title data-ice="title">Home | rwof</title>
+		<link type="text/css" rel="stylesheet" href="css/style.css" />
+		<link
+			type="text/css"
+			rel="stylesheet"
+			href="css/prettify-tomorrow.css"
+		/>
+		<script src="script/prettify/prettify.js"></script>
+		<script src="script/manual.js"></script>
+	</head>
+	<body class="layout-container" data-ice="rootContainer">
+		<header>
+			<a href="./">Home</a>
+		</header>
+
+		<nav class="navigation" data-ice="nav">
+			<div>
+				<ul>
+					<li data-ice="doc">
+						<span data-ice="kind" class="kind-class">C</span
+						><span data-ice="name"
+							><span
+								><a href="UnitButton.js~UnitButton.html"
+									>UnitButton</a
+								></span
+							></span
+						>
+					</li>
+					<li data-ice="doc">
+						<span data-ice="kind" class="kind-class">C</span
+						><span data-ice="name"
+							><span
+								><a href="UnitButtonBox.js~UnitButtonBox.html"
+									>UnitButtonBox</a
+								></span
+							></span
+						>
+					</li>
+				</ul>
+			</div>
+		</nav>
+
+		<div class="content" data-ice="content">
+			<div data-ice="index" class="github-markdown">
+				<p>
+					<strong>Author:</strong> Emily K. Grimes
+					<strong>Date:</strong> October 24, 2018
+				</p>
+				<h2 id="table-of-contents">Table of Contents</h2>
+				<ul>
+					<li><a href="#how-the-app-works">How the App Works</a></li>
+					<li>
+						<a href="#for-developers">For Developers</a>
+						<ul>
+							<li>
+								<a href="#debugging-the-app"
+									>Debugging the App</a
+								>
+								<ul>
+									<li>
+										<a href="#useful-tools">Useful Tools</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="#reproducing-the-app"
+									>Reproducing the App</a
+								>
+								<ul>
+									<li>
+										<a href="#important-little-things"
+											>Important Little Things</a
+										>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<h2 id="how-the-app-works">How the App Works</h2>
+				<p>
+					NEWS-e Forecast Viewer is a desktop web application that
+					allows for the easy selection of image products to view by
+					selecting important parts of image file names from menus.
+					There are images corresponding to day (Date), time
+					(Forecast, Minute, Hour, Period), Percentile, and product
+					(Environment, Rad/Sat/QPF, Severe, Rotation, Verification,
+					Members). A choice from any of the menus will update the
+					<code>src</code> value of the
+					<code>&lt;img&gt;</code> element holding the image product
+					in the middle of the view. Menus rely on metadata provided
+					in a <code>json</code> file that should be named for the
+					build and placed in <code>public/data</code> relative to
+					<code>src/</code>. The Warn-On Forecast group uses NEWS-e
+					Forecast Viewer to conduct user research studies on
+					forecasters.
+				</p>
+				<p>
+					For the Dates menu to be accurate, when the app is in active
+					use, <code>public/data/getdates.sh</code> must be run (on
+					the server where the build is live) every day until the user
+					tests are complete.
+				</p>
+				<h2 id="for-developers">For Developers</h2>
+				<p>
+					NEWS-e Forecast Viewer has been built out several times for
+					different user groups. Each build has its own branch in git.
+					Typing
+				</p>
+				<p><code>git branch</code></p>
+				<p>
+					in console while in the directory will reveal branches for
+					builds. <code>master</code> refers to &quot;realtime&quot;.
+					Differences in builds include changing the survey link and
+					other minor layout differences, but generally revolve around
+					the name of the <code>json</code> file referenced in the
+					main app container to <code>fetch</code>. the
+					<code>json</code> data structure is very specific. The
+					Warn-On Forecast team knows this data structure and is
+					responsible for providing the file to the app for each
+					build.
+				</p>
+				<h3 id="debugging-the-app">Debugging the App</h3>
+				<p>
+					This project was bootstrapped with Create React App. Check
+					out the most recent documentation for CRA
+					<a
+						href="https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md"
+						>here</a
+					>. To truly feel comfortable with the codebase, you will
+					need to be familiar with CRA, and
+					<a href="https://reactjs.org/">React.js</a> in particular.
+					The
+					<a href="https://reactjs.org/docs/getting-started.html"
+						>documentation</a
+					>
+					for React is very robust and relatively easy to read and
+					understand if you understand Javascript and web development
+					principles. Starting there if you are new to React will be a
+					big help. Otherwise, reading through this document (where
+					you are now) will help you understand the code as I have
+					written it.
+				</p>
+				<p>
+					To the left the components that make this app work are
+					organized and documented based on the way the src folder is
+					organized with respect to .js files. Every class, function,
+					and state object has been commented.
+				</p>
+				<h4 id="useful-tools">Useful Tools</h4>
+				<p>
+					If the app has issues, a helpful tool to debugging is the
+					React Developer Tools browser extension for
+					<a
+						href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en"
+						>Chrome</a
+					>
+					and
+					<a
+						href="https://addons.mozilla.org/en-US/firefox/addon/react-devtools/"
+						>Firefox</a
+					>.
+				</p>
+				<p>
+					React syntax is very well supported in
+					<a href="https://atom.io/">Atom text editor</a>, a free text
+					editor with many useful packages for developers. It is
+					available in the Self Service app store.
+				</p>
+				<h3 id="reproducing-the-app">Reproducing the App</h3>
+				<p>
+					From the terminal, navigate to the directory where the src
+					folder is. For example:
+				</p>
+				<p><code>cd rwof</code></p>
+				<p>
+					Make any changes that may need to be made in src, and again
+					from terminal:
+				</p>
+				<p><code>npm run build</code></p>
+				<p>
+					This command will produce a production build of the app in
+					vanilla webstack code. The contents of the
+					<em>build</em> folder that appears level with
+					<em>src</em> can be moved to a live web server.
+				</p>
+				<h4 id="important-little-things">Important Little Things</h4>
+				<p>
+					A production build will not work properly if the
+					<em>package.json</em> file lacks an attribute for the
+					homepage. This information gets translated to complete
+					relative links written in &quot;syntactic sugar&quot; or
+					short hand code.
+				</p>
+				<p>
+					So before running the <strong>build</strong> command, be
+					sure to add the relative live address for where this app
+					will live on the web server to <em>package.json</em> on the
+					outermost attribute level on the tree. For example:
+				</p>
+				<p>
+					<code
+						>&quot;homepage&quot;:
+						&quot;/projects/wof/news-e/realtime&quot;</code
+					>
+				</p>
+				<p>
+					is appropriate for a build that has its
+					<em>index.html</em> placed at
+					<code
+						>https://www.nssl.noaa.gov/projects/wof/news-e/realtime</code
+					>.
+				</p>
+				<p>
+					In this example, <code>build</code> was renamed to
+					<code>realtime</code>.
+				</p>
+			</div>
+		</div>
+
+		<footer class="footer">
+			Generated by
+			<a href="https://esdoc.org"
+				>ESDoc<span data-ice="esdocVersion">(1.1.0)</span
+				><img src="./image/esdoc-logo-mini-black.png"
+			/></a>
+		</footer>
+
+		<script src="script/pretty-print.js"></script>
+		<script src="script/inherited-summary.js"></script>
+		<script src="script/test-summary.js"></script>
+		<script src="script/inner-link.js"></script>
+		<script src="script/patch-for-local.js"></script>
+	</body>
+</html>

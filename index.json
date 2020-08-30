@@ -1,0 +1,3415 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/Button.js",
+    "content": "import React from 'react';\nimport cx from 'classnames';\nimport PropTypes from 'prop-types';\n\n/**\n * Button encapsulates a button element with a custom onClick event fn\n * @reactProps {string} label - the button label\n * @reactProps {string} value - the button value to be passed up to Main.getSource\n * @reactProps {string} unit -\n * @reactProps {boolean} selected -\n * @reactProps {function} onEvent - handleFieldChange from Main\n * @reactProps {function} highlight -\n */\nexport default class Button extends React.Component {\n  /**\n   * onClick, this fn\n   */\n  onEvent = () => {\n    const value = this.props.value;\n    const unit = this.props.unit;\n    this.props.onEvent(value, unit);\n    if (this.props.highlight) { this.props.highlight(value) };\n  }\n\n  render() {\n    const { selected } = this.props;\n      return (\n        <button\n          className={cx('button',{ selected })}\n          onClick={this.onEvent}>\n          <span>{this.props.label}</span>\n        </button>\n      );\n    }\n}\n\nButton.propTypes = {\n  // a Button must have a label to render\n  // the menu in which the Button is rendered will correspond to\n  // the part of the image location string this label will affect\n  label: PropTypes.string,\n  unit: PropTypes.string,\n  // sometimes the label will not exactly match the value we want\n  // to pass up to the MainContainer. For this reason, we pass that information\n  // as the value for the image location apart from the label\n  value: PropTypes.string,\n  // when a Button is clicked it will pass its label up to the\n  // MainContainer where the information will change the state\n  // (which will affect the image being shown)\n  onEvent: PropTypes.func,\n  highlight: PropTypes.func,\n  selected: PropTypes.bool\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/Button.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "Button",
+    "memberof": "src/Button.js",
+    "static": true,
+    "longname": "src/Button.js~Button",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/Button.js",
+    "importStyle": "Button",
+    "description": "Button encapsulates a button element with a custom onClick event fn",
+    "lineNumber": 14,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} label - the button label"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} value - the button value to be passed up to Main.getSource"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} unit -"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{boolean} selected -"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} onEvent - handleFieldChange from Main"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} highlight -"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 50,
+    "kind": "member",
+    "name": "onEvent",
+    "memberof": "src/Button.js~Button",
+    "static": false,
+    "longname": "src/Button.js~Button#onEvent",
+    "access": "public",
+    "description": "onClick, this fn",
+    "lineNumber": 18,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/Button.js~Button",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Button.js~Button#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/ButtonBox.js",
+    "content": "import React from 'react';\nimport cx from 'classnames';\nimport PropTypes from 'prop-types';\n\n\nexport default class ButtonBox extends React.Component {\n  constructor(props) {\n    super(props);\n    this.state = {\n      membersHidden: true,\n    };\n  }\n\n  onClick = () => {\n    this.setState( { membersHidden : !this.state.membersHidden });\n  }\n\n  render() {\n    const { membersHidden } = this.state;\n    return (\n      <div className={cx(\"button-box\", this.props.classname, { membersHidden })}>\n        <div className=\"title\" onClick={this.props.closable ? this.onClick : \"\"}>\n          <h3>{this.props.title}</h3>\n        </div>\n        <div className=\"buttons\">\n          {this.props.buttons}\n        </div>\n      </div>\n    );\n  }\n}\n\nButtonBox.propTypes = {\n  buttons: PropTypes.array,\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/ButtonBox.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "class",
+    "name": "ButtonBox",
+    "memberof": "src/ButtonBox.js",
+    "static": true,
+    "longname": "src/ButtonBox.js~ButtonBox",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/ButtonBox.js",
+    "importStyle": "ButtonBox",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 54,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/ButtonBox.js~ButtonBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/ButtonBox.js~ButtonBox#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true
+  },
+  {
+    "__docId__": 55,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/ButtonBox.js~ButtonBox",
+    "static": false,
+    "longname": "src/ButtonBox.js~ButtonBox#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"membersHidden\": boolean}"
+      ]
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "member",
+    "name": "onClick",
+    "memberof": "src/ButtonBox.js~ButtonBox",
+    "static": false,
+    "longname": "src/ButtonBox.js~ButtonBox#onClick",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/ButtonBox.js~ButtonBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/ButtonBox.js~ButtonBox#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/CloseButton.js",
+    "content": "import React from \"react\";\nimport FaClose from \"react-icons/lib/fa/close\";\n\n/**\n * CloseButton displays a commly used 'close' icon.\n * onClick, this button executes a function passed to it.\n * @reactProps {function} handleCloseButton - a function appropriate\n * for a close button. Function will likely be from the parent so actions\n * occur in the correct scope.\n */\nexport default class CloseButton extends React.Component {\n\n  handleCloseButton = () => {\n    this.props.handleCloseButton();\n  }\n\n  render() {\n    return (\n      <div className=\"close-button\">\n        <button onClick={this.props.handleCloseButton}>\n          <FaClose/>\n        </button>\n      </div>\n    );\n  }\n\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/CloseButton.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "class",
+    "name": "CloseButton",
+    "memberof": "src/CloseButton.js",
+    "static": true,
+    "longname": "src/CloseButton.js~CloseButton",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/CloseButton.js",
+    "importStyle": "CloseButton",
+    "description": "CloseButton displays a commly used 'close' icon.\nonClick, this button executes a function passed to it.",
+    "lineNumber": 11,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleCloseButton - a function appropriate\nfor a close button. Function will likely be from the parent so actions\noccur in the correct scope."
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 60,
+    "kind": "member",
+    "name": "handleCloseButton",
+    "memberof": "src/CloseButton.js~CloseButton",
+    "static": false,
+    "longname": "src/CloseButton.js~CloseButton#handleCloseButton",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/CloseButton.js~CloseButton",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/CloseButton.js~CloseButton#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/CycleButtonBox.js",
+    "content": "import React from \"react\";\nimport PropTypes from \"prop-types\";\nimport Button from \"./Button\";\nimport cx from \"classnames\";\n\n\n/**\n * ButtonBox for Cycles\n * @reactProps {Button[]} cycles - an array of Button components\n * @reactProps {string} classname - the className for this button box\n * @reactProps {function} onEvent - function, handleCycleChange from Main\n */\nexport default class CycleButtonBox extends React.Component {\n  state = {};\n\n  highlight = (value) => {\n    this.setState({ selected: value});\n  }\n\n  render() {\n    return (\n      <div className={cx(\"button-box\", this.props.classname)}>\n        <div className=\"title\">\n          <h3>Forecasts</h3>\n        </div>\n        <div className=\"buttons\">\n        {this.props.cycles.map((c,i) => (\n                  <Button\n                      key={i}\n                      label={c}\n                      value={c}\n                      onEvent={this.props.onEvent}\n                      highlight={this.highlight}\n                      selected={c === this.state.selected}\n                      onClick={1}\n                  />\n            ))}\n      </div>\n      </div>\n    );\n  }\n}\n\nCycleButtonBox.propTypes = {\n  cycles: PropTypes.array.isRequired,\n  onEvent: PropTypes.func.isRequired,\n  classname: PropTypes.string\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/CycleButtonBox.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "class",
+    "name": "CycleButtonBox",
+    "memberof": "src/CycleButtonBox.js",
+    "static": true,
+    "longname": "src/CycleButtonBox.js~CycleButtonBox",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/CycleButtonBox.js",
+    "importStyle": "CycleButtonBox",
+    "description": "ButtonBox for Cycles",
+    "lineNumber": 13,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{Button[]} cycles - an array of Button components"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} classname - the className for this button box"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} onEvent - function, handleCycleChange from Main"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 64,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/CycleButtonBox.js~CycleButtonBox",
+    "static": false,
+    "longname": "src/CycleButtonBox.js~CycleButtonBox#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "member",
+    "name": "highlight",
+    "memberof": "src/CycleButtonBox.js~CycleButtonBox",
+    "static": false,
+    "longname": "src/CycleButtonBox.js~CycleButtonBox#highlight",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/CycleButtonBox.js~CycleButtonBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/CycleButtonBox.js~CycleButtonBox#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/DataCanvas.js",
+    "content": "import React from 'react';\n\n/**\n * DataCanvas renders the image product plain and simple.\n * @reactProps {HTML Element} img - an img element we want to see \n */\nexport default class DataCanvas extends React.Component {\n  render() {\n    return (\n      <div className='data-canvas'>\n        {this.props.img}\n      </div>\n    )\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/DataCanvas.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "class",
+    "name": "DataCanvas",
+    "memberof": "src/DataCanvas.js",
+    "static": true,
+    "longname": "src/DataCanvas.js~DataCanvas",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/DataCanvas.js",
+    "importStyle": "DataCanvas",
+    "description": "DataCanvas renders the image product plain and simple.",
+    "lineNumber": 7,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{HTML Element} img - an img element we want to see "
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 69,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/DataCanvas.js~DataCanvas",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DataCanvas.js~DataCanvas#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "file",
+    "name": "src/DataCanvasContainer.js",
+    "content": "import React from \"react\";\nimport UnitButtonBox from \"./UnitButtonBox\";\nimport DataCanvas from \"./DataCanvas\";\nimport error from \"./imagenotthere.png\";\nimport PropTypes from \"prop-types\";\n\n/**\n * DataCanvasContainer handles preloading of images and sending the\n * image element that corresponds to the selected image product\n *  to the DataCanvas component.\n *\n * @reactProps {function} getSource - getSource from Main, returns the src for an img\n * @reactProps {function} handleUnitChange - from Main, update the selected unit on Main state\n * @reactProps {Object} units - the units object, tells us start, by, and the header\n * @reactProps {string} unitType - the unitType for the selected product\n * @reactProps {string} unitThreshold - the max unit value for this cycle (from the Cycle object)\n * @reactProps {string} product - the selected product\n * @reactProps {string} cycle - the selected cycle\n * @reactProps {string} date - the selected date\n * @reactProps {string} domainImg - an image element when Domain of the Day is on, null if not\n */\nexport default class DataCanvasContainer extends React.Component {\n  state = {\n    values: [],\n    index: 0\n  }\n\n  /**\n   * It is essential to preload images for speed of viewing.\n   */\n  componentDidMount() {\n    this.preload();\n  }\n\n  /**\n   * Only preload again if there is a change in:\n   *  product - that is a whole new file name,\n   *  cycle - that represents a new directory,\n   *   or\n   *  date - that also represents a new directory\n   * @reactProps {Object} prevProps - to be compared to current props\n   * @reactProps {Object} prevState - default param for this React lifecycle method. unused here.\n   */\n  componentDidUpdate(prevProps, prevState) {\n    if(prevProps.product !== this.props.product\n        || prevProps.cycle !== this.props.cycle\n        || prevProps.date !== this.props.date) {\n      this.preload();\n    }\n  }\n\n  /**\n   * Modularize getting the value out of the units object given a key.\n   * @param {string} property - a key in the units object\n   * @return {string} - the value of the property key in the units object\n   */\n  getUnitData = (property) => {\n    return this.props.units[this.props.unitType][property];\n  }\n\n  /**\n   * Every given unit type increases by a set amount, stored in the\n   * units object on props. Every given unit also has a max. With this\n   * getValues determines how many unit buttons need to be rendered\n   * and what those units should be. These values correspond to the units\n   * on the file names for the image products.\n   * @return {string[]} values - an array of the strings that will be unit button labels\n   */\n  getValues = () => {\n    const start = Number(this.getUnitData(\"start\"));\n    const by = Number(this.getUnitData(\"by\"));\n    const limit = Number(this.props.unitThreashold);\n\n    const length = limit / by + 1 - start;\n    const values = this.props.unitType === \"full\" ? [\"000\"] : Array.from({ length }).map( (_,i) => {\n       by === 1 ? i+=by : i*=by;\n       return (\n         (i) < 10 ? \"00\" + (i) : (i) > 99 ? (i) :  \"0\"+(i)\n       )\n    });\n    return values;\n  }\n\n\n  /**\n   *  Get the array of values for the units, map to Promises that fullfill\n   *  Image elements on load with urls based on the unit values.\n   *  Set values, array of images and the promises to state.\n   */\n  preload() {\n    const values = this.getValues();\n    const images = Array.from({length: values.length})\n    const preload = Promise.all(values.map(\n      (val) => (this.props.getSource(val))).map(\n        (url, i) => {\n          return new Promise((fullfill, reject) => {\n            let img = new Image();\n            img.onload = fullfill;\n            img.onerror = reject;\n            img.src = url;\n            images[i] = <img src={url}\n                             alt=\"Forecast\"\n                             onError={(e) => { e.target.src = error; }}\n                             />;\n          });\n        }\n      ));\n    this.setState({ values, preload, images });\n  }\n\n\n  /**\n   * Update the index so the correct img element passes to DataCanvas\n   */\n  change = (index) => {\n    this.setState({ index });\n  }\n\n  /**\n   * renders UnitButtonBox and DataCanvas\n   */\n  render() {\n      if(this.state.images) {\n        return (\n          <div className=\"data-canvas-container\">\n\n            <UnitButtonBox\n              classname={\"horizontal\"}\n              title={this.getUnitData(\"unitHeader\")}\n              buttonValues={this.getValues()}\n              onEvent={this.props.handleUnitChange}\n              change={this.change}\n            />\n            <DataCanvas img={this.props.domainImg || this.state.images[this.state.index]} />\n          </div>\n        );\n      } else {\n        return( <div /> );\n      }\n    }\n}\n\nDataCanvasContainer.propTypes = {\n  getSource: PropTypes.func.isRequired,\n  handleUnitChange: PropTypes.func.isRequired,\n  units: PropTypes.object.isRequired,\n  unitType: PropTypes.string,\n  unitThreshold: PropTypes.string,\n  product: PropTypes.string,\n  cycle: PropTypes.string,\n  date: PropTypes.string,\n  domainImg: PropTypes.string\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/DataCanvasContainer.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "class",
+    "name": "DataCanvasContainer",
+    "memberof": "src/DataCanvasContainer.js",
+    "static": true,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/DataCanvasContainer.js",
+    "importStyle": "DataCanvasContainer",
+    "description": "DataCanvasContainer handles preloading of images and sending the\nimage element that corresponds to the selected image product\n to the DataCanvas component.",
+    "lineNumber": 22,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} getSource - getSource from Main, returns the src for an img"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleUnitChange - from Main, update the selected unit on Main state"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{Object} units - the units object, tells us start, by, and the header"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} unitType - the unitType for the selected product"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} unitThreshold - the max unit value for this cycle (from the Cycle object)"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} product - the selected product"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} cycle - the selected cycle"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} date - the selected date"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} domainImg - an image element when Domain of the Day is on, null if not"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 72,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "static": false,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer#componentDidMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 74,
+    "kind": "method",
+    "name": "componentDidUpdate",
+    "memberof": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer#componentDidUpdate",
+    "access": "public",
+    "description": "Only preload again if there is a change in:\n product - that is a whole new file name,\n cycle - that represents a new directory,\n  or\n date - that also represents a new directory",
+    "lineNumber": 44,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{Object} prevProps - to be compared to current props"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{Object} prevState - default param for this React lifecycle method. unused here."
+      }
+    ],
+    "params": [
+      {
+        "name": "prevProps",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "prevState",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 75,
+    "kind": "member",
+    "name": "getUnitData",
+    "memberof": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "static": false,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer#getUnitData",
+    "access": "public",
+    "description": "Modularize getting the value out of the units object given a key.",
+    "lineNumber": 57,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "property",
+        "description": "a key in the units object"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "the value of the property key in the units object"
+    },
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "member",
+    "name": "getValues",
+    "memberof": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "static": false,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer#getValues",
+    "access": "public",
+    "description": "Every given unit type increases by a set amount, stored in the\nunits object on props. Every given unit also has a max. With this\ngetValues determines how many unit buttons need to be rendered\nand what those units should be. These values correspond to the units\non the file names for the image products.",
+    "lineNumber": 69,
+    "return": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": "values - an array of the strings that will be unit button labels"
+    },
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "method",
+    "name": "preload",
+    "memberof": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer#preload",
+    "access": "public",
+    "description": " Get the array of values for the units, map to Promises that fullfill\n Image elements on load with urls based on the unit values.\n Set values, array of images and the promises to state.",
+    "lineNumber": 90,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 78,
+    "kind": "member",
+    "name": "change",
+    "memberof": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "static": false,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer#change",
+    "access": "public",
+    "description": "Update the index so the correct img element passes to DataCanvas",
+    "lineNumber": 115,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/DataCanvasContainer.js~DataCanvasContainer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DataCanvasContainer.js~DataCanvasContainer#render",
+    "access": "public",
+    "description": "renders UnitButtonBox and DataCanvas",
+    "lineNumber": 122,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "file",
+    "name": "src/DateMenu.js",
+    "content": "import React from \"react\";\nimport cx from \"classnames\";\nimport PropTypes from \"prop-types\";\nimport datefns from \"date-fns\";\nimport MonthHeader from \"./MonthHeader\";\nimport TrowFragment from \"./TrowFragment\";\nimport Popup from \"./Popup\";\nimport PopupContent from \"./PopupContent\";\nimport CloseButton from \"./CloseButton\";\n\n/**\n * DateMenu is a Menu that can be \"open\" or not.\n * When closed it appears to be a button. When open, it\n * utilizes a portal to display a div beside it with\n * clickable date-labeled buttons.\n *\n * @reactProps {string[]} dates - a list of date strings that will become buttons in the open div\n * @reactProps {function} handleMenuToggle - from MenuBox (parent), handles the style logic\n * @reactProps {function} handleChange - from Main, handleDateChange\n * @reactProps {boolean} open - the source of style logic\n * @reactProps {string} title - the label for the closed menu\n */\nexport default class DateMenu extends React.Component {\n  state = {};\n\n  /**\n   * dates must be sorted, bounding rectangle for portal established\n   */\n  componentDidMount() {\n    this.parseDates(this.props.dates);\n    this.getStyle();\n    window.addEventListener('resize', () => this.getStyle());\n    document.addEventListener('scroll', () => this.getStyle());\n  }\n\n  /**\n   * Set the rectangle object to state. The open menu div\n   * has to be positioned relative to this rectangle.\n   */\n  getStyle = () => {\n    const parent = document.getElementById('date-menu-button');\n    const rect = parent.getBoundingClientRect();\n    this.setState({ parent, rect })\n  }\n\n  /**\n   * dates are parsed as datefns objects and sorted latest first\n   */\n  parseDates(arrOfDates) {\n    const sortedDates = arrOfDates.map(\n      d => (datefns.parse(d))).sort(\n        (date1, date2) => (date2 - date1));\n      //.map( d => (datefns.format(d, \"YYYYMMDD\")));\n\n    this.setState({ sortedDates })\n  }\n\n  /**\n   * When closed, renders a button displaying props.title\n   *  Style determined with props.open, deconstructed and\n   *  controlling the \"open\" className via cx.\n   * When open, renders the button displaying props.title\n   *  and a Popup > div > PopupContent.\n   *  PopupContent children include CloseButton, MonthHeader,\n   *   and TrowFragment\n   * @return button, Popup > div > PopupContent\n   */\n  render() {\n    const { open } = this.props;\n    if(!this.state) {\n      return (\n        <button id={\"date-menu-button\"} className={cx(\"closed-menu\", \"date-menu\", {open: open})}\n                onClick={this.props.handleMenuToggle}>\n          <h3>{this.props.title}</h3>\n        </button>\n      )\n    } else {\n        return (\n          <button id={\"date-menu-button\"} className={cx(\"closed-menu\", \"date-menu\", { open: open })} onClick={this.props.handleMenuToggle}>\n            <h3>{this.props.title}</h3>\n            {open && (\n              <Popup>\n              <div className=\"date-menu opened\">\n              <PopupContent top={this.state.rect.top} left={this.state.rect.right+5}>\n                <CloseButton handleCloseButton={this.props.handleCloseButton} />\n                {this.state.sortedDates.map( (d, i, arr) => {\n                  let date = datefns.format(d, \"YYYYMMDD\");\n                  if(i === 0 || datefns.getYear(d) !== datefns.getYear(arr[i-1])) {\n                     return (\n                       <div>\n                          <div className=\"category\">{datefns.getYear(d)}</div>\n                          <MonthHeader month={datefns.getMonth(d)}/>\n                          <TrowFragment onEvent={this.props.handleChange} date={date} />\n                       </div>)\n                   } else {\n                        if(datefns.getMonth(d) !== datefns.getMonth(arr[i-1])) {\n                          return (\n                             <div>\n                                <MonthHeader month={datefns.getMonth(d)}/>\n                                <TrowFragment onEvent={this.props.handleChange} date={date} />\n                              </div>\n                        )}\n\n                     return (<TrowFragment onEvent={this.props.handleChange} date={date} />);\n                  }\n                })}\n                  </PopupContent>\n                </div>\n              </Popup>\n            )}\n          </button>\n        );\n      }\n    }\n}\n\nDateMenu.propTypes = {\n  dates: PropTypes.array,\n  handleChange: PropTypes.func,\n  handleMenuToggle: PropTypes.func,\n  open: PropTypes.bool,\n  title: PropTypes.string\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/DateMenu.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 81,
+    "kind": "class",
+    "name": "DateMenu",
+    "memberof": "src/DateMenu.js",
+    "static": true,
+    "longname": "src/DateMenu.js~DateMenu",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/DateMenu.js",
+    "importStyle": "DateMenu",
+    "description": "DateMenu is a Menu that can be \"open\" or not.\nWhen closed it appears to be a button. When open, it\nutilizes a portal to display a div beside it with\nclickable date-labeled buttons.",
+    "lineNumber": 23,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string[]} dates - a list of date strings that will become buttons in the open div"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleMenuToggle - from MenuBox (parent), handles the style logic"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleChange - from Main, handleDateChange"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{boolean} open - the source of style logic"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} title - the label for the closed menu"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 82,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/DateMenu.js~DateMenu",
+    "static": false,
+    "longname": "src/DateMenu.js~DateMenu#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/DateMenu.js~DateMenu",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DateMenu.js~DateMenu#componentDidMount",
+    "access": "public",
+    "description": "dates must be sorted, bounding rectangle for portal established",
+    "lineNumber": 29,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 84,
+    "kind": "member",
+    "name": "getStyle",
+    "memberof": "src/DateMenu.js~DateMenu",
+    "static": false,
+    "longname": "src/DateMenu.js~DateMenu#getStyle",
+    "access": "public",
+    "description": "Set the rectangle object to state. The open menu div\nhas to be positioned relative to this rectangle.",
+    "lineNumber": 40,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "method",
+    "name": "parseDates",
+    "memberof": "src/DateMenu.js~DateMenu",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DateMenu.js~DateMenu#parseDates",
+    "access": "public",
+    "description": "dates are parsed as datefns objects and sorted latest first",
+    "lineNumber": 49,
+    "params": [
+      {
+        "name": "arrOfDates",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 86,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/DateMenu.js~DateMenu",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DateMenu.js~DateMenu#render",
+    "access": "public",
+    "description": "When closed, renders a button displaying props.title\n Style determined with props.open, deconstructed and\n controlling the \"open\" className via cx.\nWhen open, renders the button displaying props.title\n and a Popup > div > PopupContent.\n PopupContent children include CloseButton, MonthHeader,\n  and TrowFragment",
+    "lineNumber": 68,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "button, Popup > div > PopupContent"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 87,
+    "kind": "file",
+    "name": "src/DirectoryMenu.js",
+    "content": "import React from \"react\";\nimport cx from \"classnames\";\nimport PropTypes from \"prop-types\";\nimport PopupContent from \"./PopupContent\";\nimport SubcategoryFragment from \"./SubcategoryFragment\";\nimport TrowFragment from \"./TrowFragment\";\n\n/**\n * DirectoryMenu is a Menu that can be \"open\" or not.\n * When open, it utilizes a portal to display a div\n * beside it with clickable date-labeled buttons.\n * This component is good for the clones where directories are not\n * necessarily dates. This will just contain a dump of directory names.\n *\n * @reactProps {string[]} dirs - a list of date strings that will become buttons in the open div\n * @reactProps {function} handleMenuToggle - from MenuBox (parent), handles the style logic\n * @reactProps {function} handleChange - from Main, handleDirChange\n * @reactProps {boolean} open - the source of style logic\n * @reactProps {string} title - the label for the closed menu\n */\nexport default class DirectoryMenu extends React.Component {\n  state = {};\n\n   // It's ok for this menu to be open when the other fields are open\n   // that is why it is commented out\n  /*handleMenuToggle = () => {\n    this.props.handleMenuToggle(this.props.title);\n  }*/\n\n  /**\n   * bounding rectangle for portal must be established\n   */\n  componentDidMount() {\n    this.getStyle();\n    window.addEventListener('resize', () => this.getStyle());\n    document.addEventListener('scroll', () => this.getStyle());\n  }\n\n  /**\n   * Set the rectangle object to state. The open menu div\n   * has to be positioned relative to this rectangle.\n   */\n  getStyle = () => {\n    const parent = document.getElementById('dir-menu-rect');\n    const rect = parent.getBoundingClientRect();\n    this.setState({ parent, rect })\n  }\n\n  /**\n   * When closed, renders a button displaying props.title\n   *  Style determined with props.open, deconstructed and\n   *  controlling the \"open\" className via cx.\n   * When open, renders the button displaying props.title\n   *  and a Popup > div > PopupContent.\n   *  PopupContent chilren include CloseButton, and TrowFragment\n   */\n  render() {\n    const { open } = this.props;\n    return (\n      <button id=\"dir-menu-rect\" className={cx(\"closed-menu\", \"dir-menu\", {open: open})} onClick={this.props.handleMenuToggle}>\n        <h3>{this.props.title}</h3>\n        {open && (\n          <div className=\"opened\">\n          <PopupContent top={this.state.rect.top} left={this.state.rect.right+5}>\n\n              {this.props.dirs.map(\n                (d) => (<TrowFragment onEvent={this.props.handleChange} dir={d} />))\n              }\n\n          </PopupContent>\n          </div>\n        )}\n      </button>\n    );\n  }\n}\n\nDirectoryMenu.propTypes = {\n  dirs: PropTypes.array,\n  handleChange: PropTypes.func,\n  handleMenuToggle: PropTypes.func,\n  open: PropTypes.bool,\n  title: PropTypes.string\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/DirectoryMenu.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 88,
+    "kind": "class",
+    "name": "DirectoryMenu",
+    "memberof": "src/DirectoryMenu.js",
+    "static": true,
+    "longname": "src/DirectoryMenu.js~DirectoryMenu",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/DirectoryMenu.js",
+    "importStyle": "DirectoryMenu",
+    "description": "DirectoryMenu is a Menu that can be \"open\" or not.\nWhen open, it utilizes a portal to display a div\nbeside it with clickable date-labeled buttons.\nThis component is good for the clones where directories are not\nnecessarily dates. This will just contain a dump of directory names.",
+    "lineNumber": 21,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string[]} dirs - a list of date strings that will become buttons in the open div"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleMenuToggle - from MenuBox (parent), handles the style logic"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleChange - from Main, handleDirChange"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{boolean} open - the source of style logic"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} title - the label for the closed menu"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 89,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/DirectoryMenu.js~DirectoryMenu",
+    "static": false,
+    "longname": "src/DirectoryMenu.js~DirectoryMenu#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/DirectoryMenu.js~DirectoryMenu",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DirectoryMenu.js~DirectoryMenu#componentDidMount",
+    "access": "public",
+    "description": "bounding rectangle for portal must be established",
+    "lineNumber": 33,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 91,
+    "kind": "member",
+    "name": "getStyle",
+    "memberof": "src/DirectoryMenu.js~DirectoryMenu",
+    "static": false,
+    "longname": "src/DirectoryMenu.js~DirectoryMenu#getStyle",
+    "access": "public",
+    "description": "Set the rectangle object to state. The open menu div\nhas to be positioned relative to this rectangle.",
+    "lineNumber": 43,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/DirectoryMenu.js~DirectoryMenu",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DirectoryMenu.js~DirectoryMenu#render",
+    "access": "public",
+    "description": "When closed, renders a button displaying props.title\n Style determined with props.open, deconstructed and\n controlling the \"open\" className via cx.\nWhen open, renders the button displaying props.title\n and a Popup > div > PopupContent.\n PopupContent chilren include CloseButton, and TrowFragment",
+    "lineNumber": 57,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "file",
+    "name": "src/DomainButton.js",
+    "content": "import React from \"react\";\nimport cx from \"classnames\";\nimport PropTypes from \"prop-types\";\n\n/**\n * This button signals to Main that the Domain of the Day\n *  img should be displayed or taken down.\n *\n *  DomainButton is a button with state storing a boolean, clicked.\n *  Clicked status is passed up to parent component(s).\n *\n * @reactProps {function} onClick - a function that takes a boolean argument\n */\nexport default class DomainButton extends React.Component {\n  state = {};\n\n  /**\n   * Flip clicked on state, pass clicked to parent\n   */\n  onClick = () => {\n    let clicked = !this.state.clicked;\n    this.props.onClick(clicked);\n    this.setState({ clicked })\n  }\n\n  /**\n   * Renders a button styled logically with clicked deconstructed from state\n   */\n  render() {\n    const { clicked } = this.state;\n    return (\n      <button onClick={this.onClick} className={cx({clicked},\"closed-menu\")}>\n        <div className=\"title\"><h3>Domain of the Day</h3></div>\n      </button>\n    );\n  }\n}\n\nDomainButton.propTypes = {\n  onClick: PropTypes.func.isRequired\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/DomainButton.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 94,
+    "kind": "class",
+    "name": "DomainButton",
+    "memberof": "src/DomainButton.js",
+    "static": true,
+    "longname": "src/DomainButton.js~DomainButton",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/DomainButton.js",
+    "importStyle": "DomainButton",
+    "description": "This button signals to Main that the Domain of the Day\n img should be displayed or taken down.\n\n DomainButton is a button with state storing a boolean, clicked.\n Clicked status is passed up to parent component(s).",
+    "lineNumber": 14,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} onClick - a function that takes a boolean argument"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 95,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/DomainButton.js~DomainButton",
+    "static": false,
+    "longname": "src/DomainButton.js~DomainButton#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "member",
+    "name": "onClick",
+    "memberof": "src/DomainButton.js~DomainButton",
+    "static": false,
+    "longname": "src/DomainButton.js~DomainButton#onClick",
+    "access": "public",
+    "description": "Flip clicked on state, pass clicked to parent",
+    "lineNumber": 20,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/DomainButton.js~DomainButton",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/DomainButton.js~DomainButton#render",
+    "access": "public",
+    "description": "Renders a button styled logically with clicked deconstructed from state",
+    "lineNumber": 29,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "file",
+    "name": "src/FieldMenu.js",
+    "content": "import React from \"react\";\nimport cx from \"classnames\";\nimport PropTypes from \"prop-types\";\nimport Button from \"./Button\";\nimport Popup from \"./Popup\";\nimport PopupContent from \"./PopupContent\";\nimport CloseButton from \"./CloseButton\";\nimport FaQuestionCircle from \"react-icons/lib/fa/question-circle\";\n\n\n/**\n * FieldMenu is a Menu that can be \"open\" or not.\n * When closed it appears to be a button. When open, it\n * utilizes a portal to display a div beside it with\n * clickable field-labeled buttons in a style similar to a table.\n *\n * @reactProps {string} title - the label for the button\n * @reactProps {Object} menuData - an object with menu categories, subcategories,\n *                                   names of products and file names\n * @reactProps {function} handleMenuToggle - takes a string (props.title)\n *                                              tells parent the menu was clicked\n * @reactProps {boolean} open - controls the style of the open and closed state\n * @reactProps {function} handleCloseButton - from parent container. ensures\n *                                              close button closes the menu\n * @reactProps {function} handleFieldChange - from Main, update the product selection\n */\nexport default class FieldMenu extends React.Component {\n  /**\n   * stores the rectangle for coordinates\n   */\n  state = {};\n\n  /**\n   * Tell parent component that this FieldMenu was toggled.\n   *\n   */\n  handleMenuToggle = () => {\n    this.props.handleMenuToggle(this.props.title);\n  }\n\n\n  /**\n   * bounding rectangle for portal established\n   */\n  componentDidMount() {\n    this.getStyle();\n    window.addEventListener('resize', () => this.getStyle());\n    document.addEventListener('scroll', () => this.getStyle());\n  }\n\n  /**\n   * Set the rectangle object to state. The open menu div\n   * has to be positioned relative to this rectangle.\n   */\n  getStyle = () => {\n    const parent = document.getElementById(this.props.title);\n    const rect = parent.getBoundingClientRect();\n    this.setState({ parent, rect })\n  }\n\n\n  /**\n   * When closed, renders a button displaying props.title\n   *  Style determined with props.open, deconstructed and\n   *  controlling the \"open\" className via cx.\n   * When open, renders the button displaying props.title\n   *  and a Popup > div > PopupContent.\n   *  PopupContent children is an array of buttons.\n   * Rendered components not yet listed are CloseButton and FaQuestionCircle.\n   * @return button, div > Popup > div > PopupContent\n   */\n  render() {\n    const { open } = this.props;\n    let i = 0;\n    let products = [];\n    let handleFieldChange = this.props.handleFieldChange;\n\n    if(this.props.menuData != null) {\n        let data = this.props.menuData;\n        products.push(<CloseButton handleCloseButton={this.props.handleCloseButton} />)\n        Object.keys(data).forEach( category => {\n          products.push(<div className=\"category\"><div><span/>{category}<a className=\"help-icon\" href={`../help/${data[category].help}`} target=\"_blank\" rel=\"noopener noreferrer\"><FaQuestionCircle/></a></div></div>);\n          Object.keys(data[category]).forEach(subcategory => {\n            let buttons = [];\n            Object.keys(data[category][subcategory]).forEach(product => {\n              let value = data[category][subcategory][product][\"productFile\"];\n              let unit = data[category][subcategory][product][\"units\"];\n              buttons.push(\n                <Button\n                    key={i++}\n                    label={product}\n                    value={value}\n                    onEvent={handleFieldChange}\n                    unit={unit}\n                    onClick={true}\n                />\n              );\n            })\n            if(subcategory !== \"help\") {\n              products.push(<div className=\"trow\">\n                  <span className=\"subcat\">{subcategory}:</span>{buttons}</div>);\n            }\n          })\n        });\n    }\n    return (\n      <button className={cx(\"closed-menu\", {open})} id={this.props.title} onClick={this.handleMenuToggle}>\n        <h3>{this.props.title}</h3>\n        {open && (\n          <Popup>\n            <div className={cx(\"field-menu\", \"opened\")}>\n              <PopupContent top={this.state.rect.top} left={this.state.rect.right+5}> {products} </PopupContent>\n            </div>\n          </Popup>\n        )}\n      </button>\n    );\n  }\n}\n\nFieldMenu.propTypes = {\n  title: PropTypes.string,\n  menuItems: PropTypes.object,\n  handleFieldChange: PropTypes.func,\n  handleCloseButton: PropTypes.func,\n  handleDateMenuToggle: PropTypes.funcs,\n  open: PropTypes.bool\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/FieldMenu.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 99,
+    "kind": "class",
+    "name": "FieldMenu",
+    "memberof": "src/FieldMenu.js",
+    "static": true,
+    "longname": "src/FieldMenu.js~FieldMenu",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/FieldMenu.js",
+    "importStyle": "FieldMenu",
+    "description": "FieldMenu is a Menu that can be \"open\" or not.\nWhen closed it appears to be a button. When open, it\nutilizes a portal to display a div beside it with\nclickable field-labeled buttons in a style similar to a table.",
+    "lineNumber": 27,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} title - the label for the button"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{Object} menuData - an object with menu categories, subcategories,\n                                  names of products and file names"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleMenuToggle - takes a string (props.title)\n                                             tells parent the menu was clicked"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{boolean} open - controls the style of the open and closed state"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleCloseButton - from parent container. ensures\n                                             close button closes the menu"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleFieldChange - from Main, update the product selection"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 100,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/FieldMenu.js~FieldMenu",
+    "static": false,
+    "longname": "src/FieldMenu.js~FieldMenu#state",
+    "access": "public",
+    "description": "stores the rectangle for coordinates",
+    "lineNumber": 31,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "member",
+    "name": "handleMenuToggle",
+    "memberof": "src/FieldMenu.js~FieldMenu",
+    "static": false,
+    "longname": "src/FieldMenu.js~FieldMenu#handleMenuToggle",
+    "access": "public",
+    "description": "Tell parent component that this FieldMenu was toggled.",
+    "lineNumber": 37,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/FieldMenu.js~FieldMenu",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FieldMenu.js~FieldMenu#componentDidMount",
+    "access": "public",
+    "description": "bounding rectangle for portal established",
+    "lineNumber": 45,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 103,
+    "kind": "member",
+    "name": "getStyle",
+    "memberof": "src/FieldMenu.js~FieldMenu",
+    "static": false,
+    "longname": "src/FieldMenu.js~FieldMenu#getStyle",
+    "access": "public",
+    "description": "Set the rectangle object to state. The open menu div\nhas to be positioned relative to this rectangle.",
+    "lineNumber": 55,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 104,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/FieldMenu.js~FieldMenu",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FieldMenu.js~FieldMenu#render",
+    "access": "public",
+    "description": "When closed, renders a button displaying props.title\n Style determined with props.open, deconstructed and\n controlling the \"open\" className via cx.\nWhen open, renders the button displaying props.title\n and a Popup > div > PopupContent.\n PopupContent children is an array of buttons.\nRendered components not yet listed are CloseButton and FaQuestionCircle.",
+    "lineNumber": 72,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "button, div > Popup > div > PopupContent"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 105,
+    "kind": "file",
+    "name": "src/HoverButton.js",
+    "content": "import React from 'react';\nimport cx from 'classnames';\nimport PropTypes from 'prop-types';\n\n/**\n * A button that is active on mouse over, not click.\n *\n * @reactProps {string} label - the label for the button\n * @reactProps {string} value - the value to pass up to parent on mouseover\n * @reactProps {string} unitType - the unit type to pass up to parent on mouseover\n * @reactProps {function} onEvent - function vehicle for button action\n * @reactProps {fucntion} highlight - optional. function that controls the style\n * @reactProps {boolean} selected - controls conditional style\n */\nexport default class HoverButton extends React.Component {\n\n  /**\n   *  Pass value and unit type up to parents.\n   *   If this button has a highlight prop, highlight.\n   */\n  onEvent = () => {\n    const value = this.props.value;\n    const unitType = this.props.unit;\n    this.props.onEvent(value, unitType); //|| this.props.highlight(value);\n    if (this.props.highlight) { this.props.highlight(value) };\n  }\n\n  /**\n   *  Renders\n   *  @return a button styled conditionally on props.selected.\n   */\n  render() {\n    const { selected } = this.props;\n      return (\n        <button\n          className={cx('button',{ selected })}\n          onMouseOver={this.onEvent}>\n          <span>{this.props.label}</span>\n        </button>\n      );\n    }\n}\n\nHoverButton.propTypes = {\n  label: PropTypes.string,\n  value: PropTypes.string,\n  unit: PropTypes.string,\n  onEvent: PropTypes.func,\n  highlight: PropTypes.func,\n  selected: PropTypes.bool\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/HoverButton.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 106,
+    "kind": "class",
+    "name": "HoverButton",
+    "memberof": "src/HoverButton.js",
+    "static": true,
+    "longname": "src/HoverButton.js~HoverButton",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/HoverButton.js",
+    "importStyle": "HoverButton",
+    "description": "A button that is active on mouse over, not click.",
+    "lineNumber": 15,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} label - the label for the button"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} value - the value to pass up to parent on mouseover"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} unitType - the unit type to pass up to parent on mouseover"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} onEvent - function vehicle for button action"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{fucntion} highlight - optional. function that controls the style"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{boolean} selected - controls conditional style"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 107,
+    "kind": "member",
+    "name": "onEvent",
+    "memberof": "src/HoverButton.js~HoverButton",
+    "static": false,
+    "longname": "src/HoverButton.js~HoverButton#onEvent",
+    "access": "public",
+    "description": " Pass value and unit type up to parents.\n  If this button has a highlight prop, highlight.",
+    "lineNumber": 21,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 108,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/HoverButton.js~HoverButton",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/HoverButton.js~HoverButton#render",
+    "access": "public",
+    "description": " Renders",
+    "lineNumber": 32,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "a button styled conditionally on props.selected."
+    },
+    "params": []
+  },
+  {
+    "__docId__": 109,
+    "kind": "file",
+    "name": "src/Main.js",
+    "content": "import React from \"react\";\nimport PropTypes from \"prop-types\";\nimport MenuBox from \"./MenuBox\";\nimport DataCanvasContainer from \"./DataCanvasContainer\";\nimport MemberButtonBox from \"./MemberButtonBox\";\nimport error from \"./imagenotthere.png\";\n\n/**\n * Main stores the processed app state. Renders two MenuBox and a DataCanvasContainer\n */\nexport default class Main extends React.Component {\n  state = this.props.initialState;\n\n  /** Get the source string for the selected image.\n   *\n   * @param {string} unit - optional, a newly selected unit\n   * @return {string} path to the image product that has been selected\n   */\n  getSource = (unit) => {\n    return(\"../newse_images/\"\n    //return(\"http://nssl.noaa.gov/projects/wof/news-e/newse_images/\"\n    + this.state.selectedDate + \"/\"\n    + this.state.selectedCycle + \"/\"\n    + this.state.selectedField + \"_f\"\n    + (unit || this.state.selectedUnit) + \".png\");\n  }\n\n  /** do a quick swap of the domainImg if true\n   * when the bool is false, put the former product back\n   * @param {boolean} bool - weather or not the Domain of the Day button\n   * has been selected\n   */\n  handleDomainOftheDay = (bool) => {\n\n    if(bool) {\n      // create a product string based on the selected date\n      let product = `NEWSe_domain_${this.state.selectedDate}`\n      // update the browser query string\n      const newQueryString = `?d=${this.state.selectedDate}&f=NEWSe_domain`;\n      window.history.pushState(null, null, newQueryString);\n      // create the img element we need to swap with the current one in the DataCanvas\n      const domainImg = <img src={`../newse_images/${this.state.selectedDate}/${product}.png`}\n      alt=\"Domain of the Day\" onError={(e) => { e.target.src = error; }} />;\n      // store the previous unit type so we can reset the unit buttons correctly later in DataCanvasContainer\n      let prevUnitType = this.state.selectedFieldUnitType;\n      // push to state data about domain and the previous unit type\n      this.setState({ selectedFieldUnitType: \"full\", prevUnitType, domainImg });\n    } else {\n      const newQueryString = `?d=${this.state.selectedDate}&c=${this.state.selectedCycle}&f=${this.state.selectedField}`;\n      const domainImg = <img src={this.getSource()}\n      alt=\"Forecast\" onError={(e) => { e.target.src = error; }} />\n      window.history.pushState(null, null, newQueryString);\n      this.setState({ domainImg, selectedFieldUnitType : this.state.prevUnitType });\n    }\n  }\n\n  /**  update the state and the query string in the url without refreshing the app\n   * the domainImg is set to null so the DataCanvasContainer will know to prefer the images preloaded there\n   * @param {string} newDate  - the most recently selected date\n   */\n  handleDateChange = (newDate) => {\n    this.setState({ selectedDate: newDate, domainImg: null });\n    const newQueryString = `?d=${newDate}&c=${this.state.selectedCycle}&f=${this.state.selectedField}`;\n    window.history.pushState(null, null, newQueryString);\n  }\n\n  /**  update the state and the query string in the url without refreshing the app\n   * the domainImg is set to null so the DataCanvasContainer will know to prefer the images preloaded there\n   * @param {string} newCycle - the most recently selected cycle\n   */\n  handleCycleChange = (newCycle) => {\n    this.setState({ selectedCycle: newCycle, domainImg: null });\n    const newQueryString = `?d=${this.state.selectedDate}&c=${newCycle}&f=${this.state.selectedField}`;\n    window.history.pushState(null, null, newQueryString);\n  }\n\n  /**  update the state and the query string in the url without refreshing the app\n   * the domainImg is set to null so the DataCanvasContainer will know to prefer the images preloaded there\n   * @param {string} newField - the most recently selected field\n   * @param {string} unit - the unit type for this field\n   */\n  handleFieldChange = (newField, unit) => {\n\n    this.setState({\n      selectedField: newField,\n      selectedFieldUnitType : unit,\n      selectedUnit: unit ? this.props.data.units[unit].start : \"000\",\n      domainImg: null\n    });\n    const newQueryString = `?d=${this.state.selectedDate}&c=${this.state.selectedCycle}&f=${newField}`\n    window.history.pushState(null, null, newQueryString);\n  }\n\n  /**\n   * the unit is the f number following the field/product name\n   * update the state and the query string in the url without refreshing the app\n   * the domainImg is set to null so the DataCanvasContainer will know to prefer the images preloaded there\n   * @param {string} newUnit - the most recently selected unit\n   */\n  handleUnitChange = (newUnit) => {\n    this.setState({ selectedUnit: newUnit, domainImg : null });\n  }\n\n\n  render() {\n    return (\n      <div className=\"main\">\n        <MenuBox\n          data={this.props.data}\n          dates={this.props.dates}\n          selectedDate={this.state.selectedDate}\n          handleDateChange={this.handleDateChange}\n          handleCycleChange={this.handleCycleChange}\n          handleFieldChange={this.handleFieldChange}\n          handleDomainOftheDay={this.handleDomainOftheDay}/>\n\n        <DataCanvasContainer\n            getSource={this.getSource}\n            handleUnitChange={this.handleUnitChange}\n            units={this.props.data[\"units\"]}\n            unitType={!!this.state.selectedFieldUnitType ? this.state.selectedFieldUnitType : \"minutes\" }\n            unitThreashold={this.props.data[\"cycles\"][this.state.selectedCycle][!!this.state.selectedFieldUnitType ? this.state.selectedFieldUnitType : \"minutes\"]}\n            product={this.state.selectedField}\n            cycle={this.state.selectedCycle}\n            date={this.state.selectedDate}\n            domainImg={this.state.domainImg}\n        />\n\n\n        <div className=\"menu-box\">\n          <MemberButtonBox\n            classname=\"members\"\n            onEvent={this.handleFieldChange}/>\n        </div>\n      </div>\n    );\n  }\n}\n\nMain.propTypes = {\n  // data is from a json file structured specifically to populate\n  // wof-essential menus. cycles, units, and fields are all included in the json\n  data: PropTypes.object.isRequired,\n  // an array of date strings is taken from a directory list\n  dates: PropTypes.arrayOf(PropTypes.string).isRequired,\n  // if the app is navigated to using query strings, the intial state\n  // will refelct those choices (if they are formatted correctly)\n  initialState: PropTypes.object.isRequired\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/Main.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 110,
+    "kind": "class",
+    "name": "Main",
+    "memberof": "src/Main.js",
+    "static": true,
+    "longname": "src/Main.js~Main",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/Main.js",
+    "importStyle": "Main",
+    "description": "Main stores the processed app state. Renders two MenuBox and a DataCanvasContainer",
+    "lineNumber": 11,
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 111,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/Main.js~Main",
+    "static": false,
+    "longname": "src/Main.js~Main#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 112,
+    "kind": "member",
+    "name": "getSource",
+    "memberof": "src/Main.js~Main",
+    "static": false,
+    "longname": "src/Main.js~Main#getSource",
+    "access": "public",
+    "description": "Get the source string for the selected image.",
+    "lineNumber": 19,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "unit",
+        "description": "optional, a newly selected unit"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "path to the image product that has been selected"
+    },
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 113,
+    "kind": "member",
+    "name": "handleDomainOftheDay",
+    "memberof": "src/Main.js~Main",
+    "static": false,
+    "longname": "src/Main.js~Main#handleDomainOftheDay",
+    "access": "public",
+    "description": "do a quick swap of the domainImg if true\nwhen the bool is false, put the former product back",
+    "lineNumber": 33,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "bool",
+        "description": "weather or not the Domain of the Day button\nhas been selected"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 114,
+    "kind": "member",
+    "name": "handleDateChange",
+    "memberof": "src/Main.js~Main",
+    "static": false,
+    "longname": "src/Main.js~Main#handleDateChange",
+    "access": "public",
+    "description": " update the state and the query string in the url without refreshing the app\nthe domainImg is set to null so the DataCanvasContainer will know to prefer the images preloaded there",
+    "lineNumber": 61,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "newDate",
+        "description": "the most recently selected date"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 115,
+    "kind": "member",
+    "name": "handleCycleChange",
+    "memberof": "src/Main.js~Main",
+    "static": false,
+    "longname": "src/Main.js~Main#handleCycleChange",
+    "access": "public",
+    "description": " update the state and the query string in the url without refreshing the app\nthe domainImg is set to null so the DataCanvasContainer will know to prefer the images preloaded there",
+    "lineNumber": 71,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "newCycle",
+        "description": "the most recently selected cycle"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 116,
+    "kind": "member",
+    "name": "handleFieldChange",
+    "memberof": "src/Main.js~Main",
+    "static": false,
+    "longname": "src/Main.js~Main#handleFieldChange",
+    "access": "public",
+    "description": " update the state and the query string in the url without refreshing the app\nthe domainImg is set to null so the DataCanvasContainer will know to prefer the images preloaded there",
+    "lineNumber": 82,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "newField",
+        "description": "the most recently selected field"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "unit",
+        "description": "the unit type for this field"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 117,
+    "kind": "member",
+    "name": "handleUnitChange",
+    "memberof": "src/Main.js~Main",
+    "static": false,
+    "longname": "src/Main.js~Main#handleUnitChange",
+    "access": "public",
+    "description": "the unit is the f number following the field/product name\nupdate the state and the query string in the url without refreshing the app\nthe domainImg is set to null so the DataCanvasContainer will know to prefer the images preloaded there",
+    "lineNumber": 100,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "newUnit",
+        "description": "the most recently selected unit"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 118,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/Main.js~Main",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Main.js~Main#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 105,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 119,
+    "kind": "file",
+    "name": "src/MainContainer.js",
+    "content": "import React from \"react\";\nimport Main from \"./Main\";\n\n/**  MainContainer is the container for the raw app state,\n *  where data is fetched for the menus and processed, where the\n *  query strings are processed and changed, and all data is passed\n *  down to the app.\n */\nexport default class MainContainer extends React.Component {\n  state = {};\n  /**\n   * Retrieve dates and data -- all essential for the\n   * app to render\n   *\n   */\n  async componentWillMount() {\n    const dates = await this.getDates();\n    const data = await this.getData();\n    const initialState = this.getInitialState(data, dates);\n    this.setState({ dates, data, initialState });\n  }\n\n  /** Fetches the list of directories named with date strings\n   * At present no part of this app is smart. Date log is the\n   * product of a manual listing process.\n   * @return {string[]} text - an Array of strings that are processed for DateMenu\n   */\n  async getDates() {\n    let response = await fetch(\"./data/dateLog.txt\", {\n      headers: { 'accept': 'text/xml' },\n      method: 'GET'\n    }).catch(err => { console.log(err) });\n    let text = await response.text();\n    // flat text is split on new line, filered for strings of length 8, all numbers\n    // ideally YYYYMMDD\n    text = text.split(\"\\n\").filter( str => (/\\d{8,8}/.test(str) && str.length === 8) );\n    return text;\n  }\n\n  /**\n   * Fetches json to populate the menus and provide unit rules and limits on cycles\n   * @return {Object} json - the app data\n   */\n  async getData() {\n    let response = await fetch('./data/newse_realtime.json', {\n      headers: { 'accept': 'text/json' },\n      method: 'GET'\n    }).catch( err => { console.log(err) });\n    return response.json();\n  }\n\n  /** Processes query strings, if any, and sets initial state object for Main\n   * @param {Object} data - the data object\n   * @param {string[]} dates - the dates array\n   * @return {{ selectedDate: string, selectedCycle: string, selectedField: string, selectedUnit: string,     selectedFieldUnitType: string }}\n   */\n  getInitialState = (data, dates) => {\n    // the date is d, cycle is c, and the product field is f.\n    // these abbreviated variable names are legacy. to change them would confuse scientists?\n    // if there's a query string arg for date, cycle, and/or field, use that, else use a default\n    // in the case of dates,\n    // if formatted like we expect, they will sort early to latest. we want latest by default.\n    const d = this.getUrlParameter('d') ? this.getUrlParameter('d') : dates[dates.length-1];\n    const c = this.getUrlParameter('c') ? this.getUrlParameter('c') : \"1900\";\n    const f = this.getUrlParameter('f') ? this.getUrlParameter('f') : \"temp\";\n    const member = f.includes(\"member\");\n    const products_units_lookup = this.getProductUnitLookup(data);\n    const unit =  member ? \"000\" : data.units[products_units_lookup[f]].start;\n    return ({\n      selectedDate: d.substr(0, 8), // there was once a tendency to name directories YYYYMMDD00\n                                    // these cases should have been deleted by now, but just in case\n      selectedCycle: c,\n      selectedField: f,\n      selectedUnit: unit || \"000\",\n      selectedFieldUnitType: member ? \"minutes\" : products_units_lookup[f] || \"minutes\"\n    })\n  }\n\n  /** Loop through the given object to find and map values to their unit type\n   * @param {Object} dat - an object\n   * @return {{ value: string }} - an object where values are mapped to unit type\n   */\n  getProductUnitLookup = (dat) => {\n    const data = dat.fields;\n    let products_units_lookup = {}\n    Object.keys(data)\n    .forEach( category => {\n        Object.keys(data[category])\n        .forEach(subcategory => {\n          Object.keys(data[category][subcategory])\n          .forEach(product => {\n          Object.keys(data[category][subcategory][product])\n          .forEach(wtf => {\n              let value = data[category][subcategory][product][wtf].productFile;\n              let unit = data[category][subcategory][product][wtf].units;\n              products_units_lookup[value] = unit;\n            })\n          })\n        })\n    });\n    return products_units_lookup;\n  }\n\n  /** Manually grab the query string for the arg we ask for.\n   * Borrowed from https://davidwalsh.name/query-string-javascript\n   * @param {string} name - can be any string, but in this app, it will be a char,\n   *       the name of the query string parameter we want the value of\n   * @return {string} - the value of name, or null\n   */\n  getUrlParameter = (name) => {\n    name = name.replace(/[\\[]/, '\\\\[').replace(/[\\]]/, '\\\\]');\n    let regex = new RegExp('[\\\\?&]' + name + '=([^&#]*)');\n    let results = regex.exec(window.location.search);\n    return results === null ? '' : decodeURIComponent(results[1].replace(/\\+/g, ' '));\n  };\n\n  // make sure we have data before we render Main\n  // we have a fallback on the json. we can pass it as props or fetch it through state.\n  render() {\n    if(this.state.dates || this.state.data) {\n      return (\n        <div>\n        <div className='banner'>\n          <img src={`../newse_images/${this.state.data.banner}`}\n               alt=\"NEWS-E Forecast Viewer\"\n               onError={ e => {\n                 e.target.src=\"https://www.nssl.noaa.gov/projects/wof/news-e/newse_images/banner.jpg\"\n               }}\n          />\n        </div>\n        <Main dates={this.state.dates} data={ this.props.data || this.state.data } initialState={this.state.initialState} />\n        </div>\n      )\n    } else {\n      return ( <div/>  );\n    }\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/MainContainer.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 120,
+    "kind": "class",
+    "name": "MainContainer",
+    "memberof": "src/MainContainer.js",
+    "static": true,
+    "longname": "src/MainContainer.js~MainContainer",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/MainContainer.js",
+    "importStyle": "MainContainer",
+    "description": " MainContainer is the container for the raw app state,\n where data is fetched for the menus and processed, where the\n query strings are processed and changed, and all data is passed\n down to the app.",
+    "lineNumber": 9,
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 121,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/MainContainer.js~MainContainer",
+    "static": false,
+    "longname": "src/MainContainer.js~MainContainer#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 122,
+    "kind": "method",
+    "name": "componentWillMount",
+    "memberof": "src/MainContainer.js~MainContainer",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/MainContainer.js~MainContainer#componentWillMount",
+    "access": "public",
+    "description": "Retrieve dates and data -- all essential for the\napp to render",
+    "lineNumber": 16,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 123,
+    "kind": "method",
+    "name": "getDates",
+    "memberof": "src/MainContainer.js~MainContainer",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/MainContainer.js~MainContainer#getDates",
+    "access": "public",
+    "description": "Fetches the list of directories named with date strings\nAt present no part of this app is smart. Date log is the\nproduct of a manual listing process.",
+    "lineNumber": 28,
+    "return": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": "text - an Array of strings that are processed for DateMenu"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 124,
+    "kind": "method",
+    "name": "getData",
+    "memberof": "src/MainContainer.js~MainContainer",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/MainContainer.js~MainContainer#getData",
+    "access": "public",
+    "description": "Fetches json to populate the menus and provide unit rules and limits on cycles",
+    "lineNumber": 44,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "json - the app data"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 125,
+    "kind": "member",
+    "name": "getInitialState",
+    "memberof": "src/MainContainer.js~MainContainer",
+    "static": false,
+    "longname": "src/MainContainer.js~MainContainer#getInitialState",
+    "access": "public",
+    "description": "Processes query strings, if any, and sets initial state object for Main",
+    "lineNumber": 57,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "data",
+        "description": "the data object"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "dates",
+        "description": "the dates array"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "{ selectedDate: string, selectedCycle: string, selectedField: string, selectedUnit: string,     selectedFieldUnitType: string }"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 126,
+    "kind": "member",
+    "name": "getProductUnitLookup",
+    "memberof": "src/MainContainer.js~MainContainer",
+    "static": false,
+    "longname": "src/MainContainer.js~MainContainer#getProductUnitLookup",
+    "access": "public",
+    "description": "Loop through the given object to find and map values to their unit type",
+    "lineNumber": 83,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "dat",
+        "description": "an object"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "{ value: string }"
+      ],
+      "spread": false,
+      "description": "an object where values are mapped to unit type"
+    },
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 127,
+    "kind": "member",
+    "name": "getUrlParameter",
+    "memberof": "src/MainContainer.js~MainContainer",
+    "static": false,
+    "longname": "src/MainContainer.js~MainContainer#getUrlParameter",
+    "access": "public",
+    "description": "Manually grab the query string for the arg we ask for.\nBorrowed from https://davidwalsh.name/query-string-javascript",
+    "lineNumber": 110,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": "can be any string, but in this app, it will be a char,\n      the name of the query string parameter we want the value of"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "the value of name, or null"
+    },
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 128,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/MainContainer.js~MainContainer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MainContainer.js~MainContainer#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 119,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 129,
+    "kind": "file",
+    "name": "src/MemberButtonBox.js",
+    "content": "import React from 'react';\nimport PropTypes from 'prop-types';\nimport HoverButton from './HoverButton';\nimport ButtonBox from './ButtonBox';\n\n\n/**\n * MemberButtonBox holds the Member buttons, which are hoverable.\n *\n * @reactProps {string} classname - the className to control style\n * @reactProps {function} onEvent - a handle function (handleFieldChange)\n */\nexport default class MemberButtonBox extends React.Component {\n  /**\n   * stores the value of selected\n   */\n  state = {};\n\n  /**\n   * Highlight sets the string it is passed to state.\n   * When HoverButtons are created the boolean selected\n   * passed as a prop is set to wether the HoverButton\n   * value === this.state.selected\n   */\n  highlight = (value) => {\n    this.setState({ selected: value });\n  }\n\n  /**\n   * Renders\n   * @return a ButtonBox, passes ButtonBox an Array of HoverButtons\n   */\n  render() {\n    return (\n      <div>\n        <ButtonBox classname={this.props.classname}\n           title=\"Members\"\n           buttons={Array.from({ length: 18 }).map((_,i) => {\n             i+=1\n             return (\n               <HoverButton\n                key={i}\n                label={\"Member \" + i}\n                value={i < 10 ? \"member_0\" + i : \"member_\" + i}\n                onEvent={this.props.onEvent}\n                highlight={this.highlight}\n                selected={(i < 10 ? \"member_0\" + i : \"member_\" + i) === this.state.selected}\n             />\n           )}\n         )} closable={true}/>\n      </div>\n    );\n  }\n}\n\nMemberButtonBox.propTypes = {\n  classname: PropTypes.string,\n  onEvent: PropTypes.func\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/MemberButtonBox.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 130,
+    "kind": "class",
+    "name": "MemberButtonBox",
+    "memberof": "src/MemberButtonBox.js",
+    "static": true,
+    "longname": "src/MemberButtonBox.js~MemberButtonBox",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/MemberButtonBox.js",
+    "importStyle": "MemberButtonBox",
+    "description": "MemberButtonBox holds the Member buttons, which are hoverable.",
+    "lineNumber": 13,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} classname - the className to control style"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} onEvent - a handle function (handleFieldChange)"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 131,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/MemberButtonBox.js~MemberButtonBox",
+    "static": false,
+    "longname": "src/MemberButtonBox.js~MemberButtonBox#state",
+    "access": "public",
+    "description": "stores the value of selected",
+    "lineNumber": 17,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 132,
+    "kind": "member",
+    "name": "highlight",
+    "memberof": "src/MemberButtonBox.js~MemberButtonBox",
+    "static": false,
+    "longname": "src/MemberButtonBox.js~MemberButtonBox#highlight",
+    "access": "public",
+    "description": "Highlight sets the string it is passed to state.\nWhen HoverButtons are created the boolean selected\npassed as a prop is set to wether the HoverButton\nvalue === this.state.selected",
+    "lineNumber": 25,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 133,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/MemberButtonBox.js~MemberButtonBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MemberButtonBox.js~MemberButtonBox#render",
+    "access": "public",
+    "description": "Renders",
+    "lineNumber": 33,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "a ButtonBox, passes ButtonBox an Array of HoverButtons"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 134,
+    "kind": "file",
+    "name": "src/MenuBox.js",
+    "content": "import React from \"react\";\nimport DateMenu from \"./DateMenu\";\nimport FieldMenu from \"./FieldMenu\";\nimport CycleButtonBox from \"./CycleButtonBox\";\nimport PropTypes from \"prop-types\";\nimport MenuLink from \"./MenuLink\";\nimport DomainButton from \"./DomainButton\";\n\n/**\n * MenuBox renders most of the menu controls for the app.\n *\n *\n * @reactProps {Object} data - the app data object, includes fields, cycle, and unit metadata\n * @reactProps {string[]} dates - an array of dates/dirs where images are located\n * @reactProps {string} selectedDate - the current date selection for display\n * @reactProps {function} handleDateChange - passes new selections up to main\n * @reactProps {function} handleCycleChange - passes new selections up to main\n * @reactProps {function} handleFieldChange - passes new selections up to main\n */\nexport default class MenuBox extends React.Component {\n  state = {};\n\n  /**\n   * Create the control structure that inhibits multiple\n   * menus being open at once.\n   */\n  componentDidMount() {\n    this.createSwitchboard();\n  }\n\n  /**\n   * The switchboard data structure is a map set to state.\n   * Only menu in the map can be open simultaneously.\n   * The fields from this.props.data are mapped to 0s.\n   * (thus menus built from other data are not controlled\n   * by switchboard, i.e. date menu or dir menu)\n   */\n  createSwitchboard = () => {\n    const menuSwitchboard = new Map();\n    Object.keys(this.props.data[\"fields\"]).forEach(\n      (fieldname) => {\n        menuSwitchboard.set(fieldname, false);\n      }\n    );\n\n    this.setState({ menuSwitchboard })\n  }\n\n  /**\n   * Dates menu has its own toggle. It is either open or not,\n   * which is saved to MenuBox state, regardless of the field menus.\n   */\n   handleDateMenuToggle = () => {\n    this.setState({ open: !this.state.open });\n  }\n\n  /**\n   * Toggling field menus open or closed.\n   *\n   * @param {string} field - the name of the field, value of the\n   * field menu passed up when it is clicked, corresponds to the\n   * names mapped in switchboard\n   */\n  handleSwitchboardToggle = (field) => {\n    let changed = this.state.menuSwitchboard;\n    // if a closed menu has been clicked before\n    if(this.state.closeMeNext) {\n      // and this field menu is not the same as the previous one\n      if(this.state.closeMeNext !== field) {\n        // flip the switch on the previous one (close it)\n        changed.set(this.state.closeMeNext, false);\n      }\n    }\n    // now flip the switch of the field of the one we want\n    // so if closeMeNext === field, we will close it\n    const on = this.state.menuSwitchboard.get(field);\n    changed.set(field, !on);\n    // update the state with the change and note this field should be closed next\n    this.setState({ menuSwitchboard : changed, closeMeNext : field })\n  }\n\n  /**\n   * Renders menus, controls, and menu-like displays of information about\n   * the current image product selection.\n   * @return div > DomainButton, DateMenu, CycleButtonBox, FieldMenus, and MenuLinks\n   */\n  render() {\n    const { open } = this.state;\n    const data = this.props.data;\n    const cycles = Object.keys(this.props.data[\"cycles\"]);\n\n    if(!this.state.menuSwitchboard) {\n      return <div/>\n    } else {\n        return (\n          <div className=\"menu-box\">\n              <div className=\"selected-date\">\n                <h4 className=\"date-label\">Current date:</h4>\n                <p>{this.props.selectedDate}</p>\n              </div>\n              <DomainButton onClick={this.props.handleDomainOftheDay} />\n              <DateMenu title=\"Forecast Dates\"\n                dates={this.props.dates}\n                handleChange={this.props.handleDateChange}\n                handleMenuToggle={this.handleDateMenuToggle}\n                open={open}\n              />\n              <CycleButtonBox\n                classname=\"cycles\"\n                onEvent={this.props.handleCycleChange}\n                cycles={cycles}\n                handleMenuToggle={this.handleMenuToggle}\n                open={open}\n              />\n              {Object.keys(this.props.data[\"fields\"]).map(( m, i ) => (\n                  <FieldMenu\n                      key={i}\n                      title={m}\n                      menuData={Object.keys(data[\"fields\"][m]) ? data[\"fields\"][m] : null}\n                      handleFieldChange={this.props.handleFieldChange}\n                      handleMenuToggle={this.handleSwitchboardToggle}\n                      open={this.state.menuSwitchboard.get(m)}\n                   />\n                )\n              )}\n          </div>\n      );\n    }\n}\n}\n\nMenuBox.propTypes = {\n  // data is from a json file structured specifically to populate\n  // wof-essential menus. cycles, units, and fields are all included in the json\n  // the menus will not display without this information\n  data: PropTypes.object.isrequired,\n  // dates is an array that populates the date menu. it's the list of directories\n  // where the images are located\n  dates: PropTypes.arrayOf(PropTypes.string),\n  // the date we need to display because it is the directory we pointing to right now\n  selectedDate: PropTypes.string,\n  // the handle funcs take date, cycle, and fields as args and Main state updates\n  // as does the path name for the image product\n  handleDateChange: PropTypes.func.isRequired,\n  handleCycleChange: PropTypes.func.isRequired,\n  handleFieldChange: PropTypes.func.isRequired\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/MenuBox.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 135,
+    "kind": "class",
+    "name": "MenuBox",
+    "memberof": "src/MenuBox.js",
+    "static": true,
+    "longname": "src/MenuBox.js~MenuBox",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/MenuBox.js",
+    "importStyle": "MenuBox",
+    "description": "MenuBox renders most of the menu controls for the app.",
+    "lineNumber": 20,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{Object} data - the app data object, includes fields, cycle, and unit metadata"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string[]} dates - an array of dates/dirs where images are located"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} selectedDate - the current date selection for display"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleDateChange - passes new selections up to main"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleCycleChange - passes new selections up to main"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} handleFieldChange - passes new selections up to main"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 136,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/MenuBox.js~MenuBox",
+    "static": false,
+    "longname": "src/MenuBox.js~MenuBox#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 137,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/MenuBox.js~MenuBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MenuBox.js~MenuBox#componentDidMount",
+    "access": "public",
+    "description": "Create the control structure that inhibits multiple\nmenus being open at once.",
+    "lineNumber": 27,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 138,
+    "kind": "member",
+    "name": "createSwitchboard",
+    "memberof": "src/MenuBox.js~MenuBox",
+    "static": false,
+    "longname": "src/MenuBox.js~MenuBox#createSwitchboard",
+    "access": "public",
+    "description": "The switchboard data structure is a map set to state.\nOnly menu in the map can be open simultaneously.\nThe fields from this.props.data are mapped to 0s.\n(thus menus built from other data are not controlled\nby switchboard, i.e. date menu or dir menu)",
+    "lineNumber": 38,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 139,
+    "kind": "member",
+    "name": "handleDateMenuToggle",
+    "memberof": "src/MenuBox.js~MenuBox",
+    "static": false,
+    "longname": "src/MenuBox.js~MenuBox#handleDateMenuToggle",
+    "access": "public",
+    "description": "Dates menu has its own toggle. It is either open or not,\nwhich is saved to MenuBox state, regardless of the field menus.",
+    "lineNumber": 53,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 140,
+    "kind": "member",
+    "name": "handleSwitchboardToggle",
+    "memberof": "src/MenuBox.js~MenuBox",
+    "static": false,
+    "longname": "src/MenuBox.js~MenuBox#handleSwitchboardToggle",
+    "access": "public",
+    "description": "Toggling field menus open or closed.",
+    "lineNumber": 64,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "field",
+        "description": "the name of the field, value of the\nfield menu passed up when it is clicked, corresponds to the\nnames mapped in switchboard"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 141,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/MenuBox.js~MenuBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MenuBox.js~MenuBox#render",
+    "access": "public",
+    "description": "Renders menus, controls, and menu-like displays of information about\nthe current image product selection.",
+    "lineNumber": 87,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "div > DomainButton, DateMenu, CycleButtonBox, FieldMenus, and MenuLinks"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 142,
+    "kind": "file",
+    "name": "src/MenuLink.js",
+    "content": "import React from 'react';\nimport FaExternalLink from \"react-icons/lib/fa/external-link\";\n\n/**\n * A closed menu box that does not \"open\". Instead,\n * clicking MenuLink clicks away.\n * @reactProps {string} url - the link\n * @reactProps {string} label - the button label\n */\nexport default class MenuLink extends React.Component {\n /**\n  * Renders \n  * @return a div > h3 > a, FaExternalLink\n  */\n  render() {\n    return (\n      <div className=\"closed-menu link\">\n        <h3>\n          <a href={this.props.url} target=\"_blank\" rel=\"noopener noreferrer\">\n          {this.props.label}</a> <FaExternalLink />\n        </h3>\n      </div>\n    );\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/MenuLink.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 143,
+    "kind": "class",
+    "name": "MenuLink",
+    "memberof": "src/MenuLink.js",
+    "static": true,
+    "longname": "src/MenuLink.js~MenuLink",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/MenuLink.js",
+    "importStyle": "MenuLink",
+    "description": "A closed menu box that does not \"open\". Instead,\nclicking MenuLink clicks away.",
+    "lineNumber": 10,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} url - the link"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} label - the button label"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 144,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/MenuLink.js~MenuLink",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MenuLink.js~MenuLink#render",
+    "access": "public",
+    "description": "Renders ",
+    "lineNumber": 15,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "a div > h3 > a, FaExternalLink"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 145,
+    "kind": "file",
+    "name": "src/MonthHeader.js",
+    "content": "import React from \"react\";\n\n\n/**\n * MonthHeader is passed an int and renders a corresponding\n * Julian calendar Month abbreviation in a div marked up with\n * a \"month\" class.\n * @reactProps {int} month - an int from 0-11\n */\nexport default class MonthHeader extends React.Component {\n  /**\n   * Given an int from 0-11, returns a Julian month string,\n   * i.e. 0 => \"Jan\", 11 => \"Dec\", etc.\n   * @param {int} num - a number 0-11 that corresponds to a Julian month\n   * @return {string} - a string, a Julian month abbreviation\n   */\n  getMonth(num) {\n    switch(num) {\n      case 0: return \"Jan\";\n      case 1: return \"Feb\";\n      case 2: return \"Mar\";\n      case 3: return \"Apr\";\n      case 4: return \"May\";\n      case 5: return \"Jun\";\n      case 6: return \"Jul\";\n      case 7: return \"Aug\";\n      case 8: return \"Sep\";\n      case 9: return \"Oct\";\n      case 10: return \"Nov\";\n      case 11: return \"Dec\";\n    }\n  }\n\n  /**\n   * Get the month and render that string marked up with div\n   * @return div - the month string in a div\n   */\n  render() {\n    const month = this.getMonth(this.props.month);\n    return (\n        <div className=\"month\">{month}</div>\n    );\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/MonthHeader.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 146,
+    "kind": "class",
+    "name": "MonthHeader",
+    "memberof": "src/MonthHeader.js",
+    "static": true,
+    "longname": "src/MonthHeader.js~MonthHeader",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/MonthHeader.js",
+    "importStyle": "MonthHeader",
+    "description": "MonthHeader is passed an int and renders a corresponding\nJulian calendar Month abbreviation in a div marked up with\na \"month\" class.",
+    "lineNumber": 10,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{int} month - an int from 0-11"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 147,
+    "kind": "method",
+    "name": "getMonth",
+    "memberof": "src/MonthHeader.js~MonthHeader",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MonthHeader.js~MonthHeader#getMonth",
+    "access": "public",
+    "description": "Given an int from 0-11, returns a Julian month string,\ni.e. 0 => \"Jan\", 11 => \"Dec\", etc.",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "int"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "num",
+        "description": "a number 0-11 that corresponds to a Julian month"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "a string, a Julian month abbreviation"
+    }
+  },
+  {
+    "__docId__": 148,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/MonthHeader.js~MonthHeader",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MonthHeader.js~MonthHeader#render",
+    "access": "public",
+    "description": "Get the month and render that string marked up with div",
+    "lineNumber": 38,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "div - the month string in a div"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 149,
+    "kind": "file",
+    "name": "src/Popup.js",
+    "content": "import React from 'react';\nimport ReactDOM from 'react-dom';\n\n\n// we have to have to save hooks to the two divs in the body of public/index.html\nconst appRoot = document.getElementById('root');\nconst popupRoot = document.getElementById('popup-root');\n\n/**\n *  Popup is a barebones, textbook implementation of\n *  a React Portal component. Taken from the\n *  React docs.\n */\nexport default class Popup extends React.Component {\n  /** The popup will exist in this div, hooked into popupRoot */\n  element = document.createElement('div');\n\n  /**\n   * Append element to popupRoot\n   */\n  componentDidMount() {\n    popupRoot.appendChild(this.element);\n  }\n\n  /**\n   * Remove element from popupRoot\n   */\n  componentWillUnmount() {\n    popupRoot.removeChild(this.element);\n  }\n\n  /**\n   *  Create a portal, render this element\n   *  and its children.\n   *  @return this.props.children, this.element\n   */\n  render() {\n    return ReactDOM.createPortal(\n      this.props.children,\n      this.element,\n    );\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/Popup.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 150,
+    "kind": "variable",
+    "name": "appRoot",
+    "memberof": "src/Popup.js",
+    "static": true,
+    "longname": "src/Popup.js~appRoot",
+    "access": "public",
+    "export": false,
+    "importPath": "rwof/src/Popup.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 151,
+    "kind": "variable",
+    "name": "popupRoot",
+    "memberof": "src/Popup.js",
+    "static": true,
+    "longname": "src/Popup.js~popupRoot",
+    "access": "public",
+    "export": false,
+    "importPath": "rwof/src/Popup.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 152,
+    "kind": "class",
+    "name": "Popup",
+    "memberof": "src/Popup.js",
+    "static": true,
+    "longname": "src/Popup.js~Popup",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/Popup.js",
+    "importStyle": "Popup",
+    "description": " Popup is a barebones, textbook implementation of\n a React Portal component. Taken from the\n React docs.",
+    "lineNumber": 14,
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 153,
+    "kind": "member",
+    "name": "element",
+    "memberof": "src/Popup.js~Popup",
+    "static": false,
+    "longname": "src/Popup.js~Popup#element",
+    "access": "public",
+    "description": "The popup will exist in this div, hooked into popupRoot",
+    "lineNumber": 16,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 154,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/Popup.js~Popup",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Popup.js~Popup#componentDidMount",
+    "access": "public",
+    "description": "Append element to popupRoot",
+    "lineNumber": 21,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 155,
+    "kind": "method",
+    "name": "componentWillUnmount",
+    "memberof": "src/Popup.js~Popup",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Popup.js~Popup#componentWillUnmount",
+    "access": "public",
+    "description": "Remove element from popupRoot",
+    "lineNumber": 28,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 156,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/Popup.js~Popup",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Popup.js~Popup#render",
+    "access": "public",
+    "description": " Create a portal, render this element\n and its children.",
+    "lineNumber": 37,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "this.props.children, this.element"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 157,
+    "kind": "file",
+    "name": "src/PopupContent.js",
+    "content": "import React from 'react';\n\n\n/**\n *  PopupContent is a div styled with props, that renders its children.\n *  Popup renders its children through a React Portal. PopupContent\n *  has a fixed position directly aligned with the to the top right corner\n *  of the FieldMenu rectangle it is associatd with.\n *\n *  @reactProps {string} top - the top position for PopupContent (should be the top of the FieldMenu rectangle)\n *  @reactProps {string} left - the left position for PopupContent\n *              (should be the right coordinate + 5px of the FieldMenu rectangle)\n *  @reactProps {HTML Element} children - JSX for PopupContent to render.\n */\nexport default class PopupContent extends React.Component {\n  /**\n   * PopupContent renders its child props.\n   * @return div > this.props.children\n   */\n  render() {\n    return (\n      <div className=\"popup-content\"\n           style={{\n             position: \"fixed\",\n             top: `${this.props.top}px`,\n             left: `${this.props.left}px`,\n             bottom: \"0px\",\n             right: \"0px\"\n          }}>\n        {this.props.children}\n      </div>\n    );\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/PopupContent.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 158,
+    "kind": "class",
+    "name": "PopupContent",
+    "memberof": "src/PopupContent.js",
+    "static": true,
+    "longname": "src/PopupContent.js~PopupContent",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/PopupContent.js",
+    "importStyle": "PopupContent",
+    "description": " PopupContent is a div styled with props, that renders its children.\n Popup renders its children through a React Portal. PopupContent\n has a fixed position directly aligned with the to the top right corner\n of the FieldMenu rectangle it is associatd with.",
+    "lineNumber": 15,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} top - the top position for PopupContent (should be the top of the FieldMenu rectangle)"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} left - the left position for PopupContent\n             (should be the right coordinate + 5px of the FieldMenu rectangle)"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{HTML Element} children - JSX for PopupContent to render."
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 159,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/PopupContent.js~PopupContent",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/PopupContent.js~PopupContent#render",
+    "access": "public",
+    "description": "PopupContent renders its child props.",
+    "lineNumber": 20,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "div > this.props.children"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 160,
+    "kind": "file",
+    "name": "src/TrowFragment.js",
+    "content": "import React from \"react\";\n\n/**\n * TrowFragment is a button displaying its props.date\n *  marked up with a div of \"trow\" class.\n *\n * @reactProps {string} date - can be any string to display in the div\n * @reactProps {function} onEvent - a function, something for the button to do onClick\n */\nexport default class TrowFragment extends React.Component {\n  /**\n   * onClick, the button will pass this.props.date to this.props.onEvent\n   */\n  onEvent = () => {\n    this.props.onEvent(this.props.date);\n  }\n\n  /**\n   * Render a button inside a div of class \"trow\"\n   * @return div > button \n   */\n  render() {\n    return (\n      <div className=\"trow\">\n        <button onClick={this.onEvent}>{this.props.date}</button>\n      </div>\n    );\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/TrowFragment.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 161,
+    "kind": "class",
+    "name": "TrowFragment",
+    "memberof": "src/TrowFragment.js",
+    "static": true,
+    "longname": "src/TrowFragment.js~TrowFragment",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/TrowFragment.js",
+    "importStyle": "TrowFragment",
+    "description": "TrowFragment is a button displaying its props.date\n marked up with a div of \"trow\" class.",
+    "lineNumber": 10,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} date - can be any string to display in the div"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} onEvent - a function, something for the button to do onClick"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 162,
+    "kind": "member",
+    "name": "onEvent",
+    "memberof": "src/TrowFragment.js~TrowFragment",
+    "static": false,
+    "longname": "src/TrowFragment.js~TrowFragment#onEvent",
+    "access": "public",
+    "description": "onClick, the button will pass this.props.date to this.props.onEvent",
+    "lineNumber": 14,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 163,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/TrowFragment.js~TrowFragment",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/TrowFragment.js~TrowFragment#render",
+    "access": "public",
+    "description": "Render a button inside a div of class \"trow\"",
+    "lineNumber": 22,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "div > button"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 164,
+    "kind": "file",
+    "name": "src/UnitButton.js",
+    "content": "import React from 'react';\nimport cx from 'classnames';\nimport PropTypes from 'prop-types';\n\n\n/**\n * UnitButton is a hover button-live element displaying its label\n *  marked up with a div of \"button\" class and \"selected\" if active.\n *\n * @reactProps {string} label - can be any string to display in the div\n * @reactProps {string} value - the label, but needed if the value differs from the label\n * @reactProps {boolean} selected - true if the container div knows this button is active\n * @reactProps {function} highlight - a function, something for the button to do onClick\n */\nexport default class UnitButton extends React.Component {\n\n  /**\n   * highlight wrt this.props.value on mouse over\n   */\n  onEvent = () => {\n    this.props.highlight(this.props.value)\n  }\n\n  /**\n   * A div that triggers the highlight function passed to it on mouse over.\n   * Conditionally styled with props.selected\n   * @return div > span > label\n   */\n  render() {\n    const { selected } = this.props;\n      return (\n        <div onMouseOver={this.onEvent}\n          className={cx('button',{ selected })}\n        >\n          <span>{this.props.label}</span>\n        </div>\n      );\n  }\n}\n\nUnitButton.propTypes = {\n  // a Button must have a label to render\n  // the menu in which the Button is rendered will correspond to\n  // the part of the image location string this label will affect\n  label: PropTypes.number,\n  // sometimes the label will not exactly match the value we want\n  // to pass up to the MainContainer. For this reason, we pass that information\n  // as the value for the image location apart from the label\n  value: PropTypes.string,\n  //value: PropTypes.number,\n  // when a Button is clicked it will pass its label up to the\n  // MainContainer where the information will change the state\n  // (which will affect the image being shown)\n  highlight: PropTypes.func,\n  selected: PropTypes.bool\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/UnitButton.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 165,
+    "kind": "class",
+    "name": "UnitButton",
+    "memberof": "src/UnitButton.js",
+    "static": true,
+    "longname": "src/UnitButton.js~UnitButton",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/UnitButton.js",
+    "importStyle": "UnitButton",
+    "description": "UnitButton is a hover button-live element displaying its label\n marked up with a div of \"button\" class and \"selected\" if active.",
+    "lineNumber": 15,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} label - can be any string to display in the div"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} value - the label, but needed if the value differs from the label"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{boolean} selected - true if the container div knows this button is active"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} highlight - a function, something for the button to do onClick"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 166,
+    "kind": "member",
+    "name": "onEvent",
+    "memberof": "src/UnitButton.js~UnitButton",
+    "static": false,
+    "longname": "src/UnitButton.js~UnitButton#onEvent",
+    "access": "public",
+    "description": "highlight wrt this.props.value on mouse over",
+    "lineNumber": 20,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 167,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/UnitButton.js~UnitButton",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/UnitButton.js~UnitButton#render",
+    "access": "public",
+    "description": "A div that triggers the highlight function passed to it on mouse over.\nConditionally styled with props.selected",
+    "lineNumber": 29,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "div > span > label"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 168,
+    "kind": "file",
+    "name": "src/UnitButtonBox.js",
+    "content": "import React from 'react';\nimport cx from 'classnames';\nimport PropTypes from 'prop-types';\nimport UnitButton from './UnitButton';\n\n/**\n * UnitButtonBox has left/right mouse button controls, as well as\n * clickable, hoverable, buttons that are highlighted when active.\n * @reactProps {string[]} buttonValues - strings to be mapped to UnitButtons\n * @reactProps {string} title - the unit title for this set of values\n * @reactProps {string} classname - a string to assign the class name for the button box\n * @reactProps {function} onEvent - a handleUnitChange function from Main to deal with unit change.\n * @reactProps {function} change - flips the selected image index forward or back in DataCanvasContainer\n *                                (parent) so the selected image updates in the DataCanvas\n */\nexport default class UnitButtonBox extends React.Component {\n  /**\n   * store the current unit selection as the value itself of that unit\n   * for conditional style (highlight)\n   */\n  state = {\n    selected: this.props.buttonValues[0],\n  }\n\n  /**\n   * Add event key listener\n   */\n  componentDidMount() {\n    document.addEventListener(\"keydown\", this.onArrowDown);\n  }\n\n  /**\n   * Remove event key listener\n   */\n  componentWillUnmount () {\n    document.removeEventListener(\"keydown\", this.onArrowDown);\n  }\n\n  /**\n   * generator returns the index of selected\n   */\n  get selectedIndex () {\n      const {\n          props: {\n              buttonValues: values\n          },\n          state: {\n              selected\n          }\n      } = this;\n\n      return (values || []).indexOf(selected);\n  }\n\n  /**\n   * Highlight stores the current selection,\n   * passes that index up to DataCanvasContainer\n   * and sends the selected unit to Main for handling the img src\n   */\n  highlight = (value) => {\n    this.setState({ selected: value });\n    this.props.onEvent(value);\n    this.props.change(this.selectedIndex);\n  }\n\n  /**\n   * onArrowDown handles the logic of the arrow key listeners.\n   * selected index increases or decreases with respect to button values\n   * and values are highlighted as arrow keys are pressed.\n   * @param {event deconstructed to key type} key - the ArrowLeft or ArrowRight\n   */\n  onArrowDown = ({ key }) => {\n    const {buttonValues: values = []} = this.props;\n    //const i = ~this.selectedIndex ? 0 : this.selectedIndex;\n    const keyMap = {\n      ArrowLeft: () => values[this.selectedIndex > 0 ? this.selectedIndex-1 : values.length-1],\n      ArrowRight: () => values[this.selectedIndex < values.length-1 ? this.selectedIndex+1 : 0],\n    }\n    const fn = keyMap[key];\n\n    //console.log(typeof fn === 'function');\n\n    this.highlight(fn());\n    //this.props.change(this.selectedIndex);\n    if(!fn || !fn()) {\n      return;\n    }\n  }\n\n  /**\n   * Renders a button-box of a buttons box filled with unit buttons.\n   * @return div > div > h3, div > UnitButtons\n   */\n  render() {\n    const {classname, title, buttonValues: buttons} = this.props;\n    return (\n      <div className={cx(\"button-box\", classname)}>\n        <div className=\"title\">\n          <h3>{title}</h3>\n        </div>\n        <div className=\"buttons\">\n          {buttons.map(\n                    (val, i) => (\n                      <UnitButton selected={val === this.state.selected}\n                              value={val}\n                              label={(Number(val))}\n                              highlight={this.highlight}\n                              key={i}\n\n                        />\n                      ))}\n        </div>\n      </div>\n    );\n  }\n}\n\nUnitButtonBox.propTypes = {\n  title: PropTypes.string,\n  classname: PropTypes.string,\n  buttonValues: PropTypes.array,\n  onEvent: PropTypes.func,\n  change: PropTypes.func\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/UnitButtonBox.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 169,
+    "kind": "class",
+    "name": "UnitButtonBox",
+    "memberof": "src/UnitButtonBox.js",
+    "static": true,
+    "longname": "src/UnitButtonBox.js~UnitButtonBox",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/UnitButtonBox.js",
+    "importStyle": "UnitButtonBox",
+    "description": "UnitButtonBox has left/right mouse button controls, as well as\nclickable, hoverable, buttons that are highlighted when active.",
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string[]} buttonValues - strings to be mapped to UnitButtons"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} title - the unit title for this set of values"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{string} classname - a string to assign the class name for the button box"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} onEvent - a handleUnitChange function from Main to deal with unit change."
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} change - flips the selected image index forward or back in DataCanvasContainer\n                               (parent) so the selected image updates in the DataCanvas"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~React.Component"
+    ]
+  },
+  {
+    "__docId__": 170,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/UnitButtonBox.js~UnitButtonBox",
+    "static": false,
+    "longname": "src/UnitButtonBox.js~UnitButtonBox#state",
+    "access": "public",
+    "description": "store the current unit selection as the value itself of that unit\nfor conditional style (highlight)",
+    "lineNumber": 21,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 171,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/UnitButtonBox.js~UnitButtonBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/UnitButtonBox.js~UnitButtonBox#componentDidMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 172,
+    "kind": "method",
+    "name": "componentWillUnmount",
+    "memberof": "src/UnitButtonBox.js~UnitButtonBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/UnitButtonBox.js~UnitButtonBox#componentWillUnmount",
+    "access": "public",
+    "description": "Remove event key listener",
+    "lineNumber": 35,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 173,
+    "kind": "get",
+    "name": "selectedIndex",
+    "memberof": "src/UnitButtonBox.js~UnitButtonBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/UnitButtonBox.js~UnitButtonBox#selectedIndex",
+    "access": "public",
+    "description": "generator returns the index of selected",
+    "lineNumber": 42,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 174,
+    "kind": "member",
+    "name": "highlight",
+    "memberof": "src/UnitButtonBox.js~UnitButtonBox",
+    "static": false,
+    "longname": "src/UnitButtonBox.js~UnitButtonBox#highlight",
+    "access": "public",
+    "description": "Highlight stores the current selection,\npasses that index up to DataCanvasContainer\nand sends the selected unit to Main for handling the img src",
+    "lineNumber": 60,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 175,
+    "kind": "member",
+    "name": "onArrowDown",
+    "memberof": "src/UnitButtonBox.js~UnitButtonBox",
+    "static": false,
+    "longname": "src/UnitButtonBox.js~UnitButtonBox#onArrowDown",
+    "access": "public",
+    "description": "onArrowDown handles the logic of the arrow key listeners.\nselected index increases or decreases with respect to button values\nand values are highlighted as arrow keys are pressed.",
+    "lineNumber": 72,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "event deconstructed to key type"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "the ArrowLeft or ArrowRight"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 176,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/UnitButtonBox.js~UnitButtonBox",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/UnitButtonBox.js~UnitButtonBox#render",
+    "access": "public",
+    "description": "Renders a button-box of a buttons box filled with unit buttons.",
+    "lineNumber": 94,
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "div > div > h3, div > UnitButtons"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 177,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import React from \"react\";\nimport ReactDOM from \"react-dom\";\nimport \"./index.css\";\nimport MainContainer from \"./MainContainer\";\n\n\nReactDOM.render((\n  <div>\n    <MainContainer />\n  </div>\n), document.getElementById(\"root\"))\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 178,
+    "kind": "file",
+    "name": "src/registerServiceWorker.js",
+    "content": "// In production, we register a service worker to serve assets from local cache.\n\n// This lets the app load faster on subsequent visits in production, and gives\n// it offline capabilities. However, it also means that developers (and users)\n// will only see deployed updates on the \"N+1\" visit to a page, since previously\n// cached resources are updated in the background.\n\n// To learn more about the benefits of this model, read https://goo.gl/KwvDNy.\n// This link also includes instructions on opting out of this behavior.\n\nconst isLocalhost = Boolean(\n  window.location.hostname === 'localhost' ||\n    // [::1] is the IPv6 localhost address.\n    window.location.hostname === '[::1]' ||\n    // 127.0.0.1/8 is considered localhost for IPv4.\n    window.location.hostname.match(\n      /^127(?:\\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/\n    )\n);\n\nexport default function register() {\n  if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator) {\n    // The URL constructor is available in all browsers that support SW.\n    const publicUrl = new URL(process.env.PUBLIC_URL, window.location);\n    if (publicUrl.origin !== window.location.origin) {\n      // Our service worker won't work if PUBLIC_URL is on a different origin\n      // from what our page is served on. This might happen if a CDN is used to\n      // serve assets; see https://github.com/facebookincubator/create-react-app/issues/2374\n      return;\n    }\n\n    window.addEventListener('load', () => {\n      const swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;\n\n      if (!isLocalhost) {\n        // Is not local host. Just register service worker\n        registerValidSW(swUrl);\n      } else {\n        // This is running on localhost. Lets check if a service worker still exists or not.\n        checkValidServiceWorker(swUrl);\n      }\n    });\n  }\n}\n\nfunction registerValidSW(swUrl) {\n  navigator.serviceWorker\n    .register(swUrl)\n    .then(registration => {\n      registration.onupdatefound = () => {\n        const installingWorker = registration.installing;\n        installingWorker.onstatechange = () => {\n          if (installingWorker.state === 'installed') {\n            if (navigator.serviceWorker.controller) {\n              // At this point, the old content will have been purged and\n              // the fresh content will have been added to the cache.\n              // It's the perfect time to display a \"New content is\n              // available; please refresh.\" message in your web app.\n              console.log('New content is available; please refresh.');\n            } else {\n              // At this point, everything has been precached.\n              // It's the perfect time to display a\n              // \"Content is cached for offline use.\" message.\n              console.log('Content is cached for offline use.');\n            }\n          }\n        };\n      };\n    })\n    .catch(error => {\n      console.error('Error during service worker registration:', error);\n    });\n}\n\nfunction checkValidServiceWorker(swUrl) {\n  // Check if the service worker can be found. If it can't reload the page.\n  fetch(swUrl)\n    .then(response => {\n      // Ensure service worker exists, and that we really are getting a JS file.\n      if (\n        response.status === 404 ||\n        response.headers.get('content-type').indexOf('javascript') === -1\n      ) {\n        // No service worker found. Probably a different app. Reload the page.\n        navigator.serviceWorker.ready.then(registration => {\n          registration.unregister().then(() => {\n            window.location.reload();\n          });\n        });\n      } else {\n        // Service worker found. Proceed as normal.\n        registerValidSW(swUrl);\n      }\n    })\n    .catch(() => {\n      console.log(\n        'No internet connection found. App is running in offline mode.'\n      );\n    });\n}\n\nexport function unregister() {\n  if ('serviceWorker' in navigator) {\n    navigator.serviceWorker.ready.then(registration => {\n      registration.unregister();\n    });\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/src/registerServiceWorker.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 179,
+    "kind": "variable",
+    "name": "isLocalhost",
+    "memberof": "src/registerServiceWorker.js",
+    "static": true,
+    "longname": "src/registerServiceWorker.js~isLocalhost",
+    "access": "public",
+    "export": false,
+    "importPath": "rwof/src/registerServiceWorker.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 180,
+    "kind": "function",
+    "name": "register",
+    "memberof": "src/registerServiceWorker.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/registerServiceWorker.js~register",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/registerServiceWorker.js",
+    "importStyle": "register",
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 181,
+    "kind": "function",
+    "name": "registerValidSW",
+    "memberof": "src/registerServiceWorker.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/registerServiceWorker.js~registerValidSW",
+    "access": "public",
+    "export": false,
+    "importPath": "rwof/src/registerServiceWorker.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 46,
+    "undocument": true,
+    "params": [
+      {
+        "name": "swUrl",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 182,
+    "kind": "function",
+    "name": "checkValidServiceWorker",
+    "memberof": "src/registerServiceWorker.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/registerServiceWorker.js~checkValidServiceWorker",
+    "access": "public",
+    "export": false,
+    "importPath": "rwof/src/registerServiceWorker.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 75,
+    "undocument": true,
+    "params": [
+      {
+        "name": "swUrl",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 183,
+    "kind": "function",
+    "name": "unregister",
+    "memberof": "src/registerServiceWorker.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/registerServiceWorker.js~unregister",
+    "access": "public",
+    "export": true,
+    "importPath": "rwof/src/registerServiceWorker.js",
+    "importStyle": "{unregister}",
+    "description": null,
+    "lineNumber": 102,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": "**Author:** Emily K. Grimes\n**Date:** October 24, 2018\n\n\n## Table of Contents\n\n- [How the App Works](#how-the-app-works)\n- [For Developers](#for-developers)\n  - [Debugging the App](#debugging-the-app)\n    - [Useful Tools](#useful-tools)\n  - [Reproducing the App](#reproducing-the-app)\n    - [Important Little Things](#important-little-things)\n\n\n## How the App Works\n\nNEWS-e Forecast Viewer is a desktop web application that allows for the easy selection of image products to view by selecting important parts of image file names from menus. There are images corresponding to day (Date), time (Forecast, Minute, Hour, Period), Percentile, and product (Environment, Rad/Sat/QPF, Severe, Rotation, Verification, Members). A choice from any of the menus will update the `src` value of the `<img>` element holding the image product in the middle of the view. Menus rely on metadata provided in a `json` file that should be named for the build and placed in `public/data` relative to `src/ `. The Warn-On Forecast group uses NEWS-e Forecast Viewer to conduct user research studies on forecasters.\n\nFor the Dates menu to be accurate, when the app is in active use, `public/data/getdates.sh` must be run (on the server where the build is live) every day until the user tests are complete.\n\n## For Developers\n\nNEWS-e Forecast Viewer has been built out several times for different user groups. Each build has its own branch in git. Typing\n\n`git branch`\n\nin console while in the directory will reveal branches for builds. `master` refers to \"realtime\". Differences in builds include changing the survey link and other minor layout differences, but generally revolve around the name of the `json` file referenced in the main app container to `fetch`. the `json` data structure is very specific. The Warn-On Forecast team knows this data structure and is responsible for providing the file to the app for each build.\n\n### Debugging the App\n\nThis project was bootstrapped with Create React App. Check out the most recent documentation for CRA [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md). To truly feel comfortable with the codebase, you will need to be familiar with CRA, and [React.js](https://reactjs.org/) in particular. The [documentation](https://reactjs.org/docs/getting-started.html) for React is very robust and relatively easy to read and understand if you understand Javascript and web development principles. Starting there if you are new to React will be a big help. Otherwise, reading through this document (where you are now) will help you understand the code as I have written it.\n\nTo the left the components that make this app work are organized and documented based on the way the src folder is organized with respect to .js files. Every class, function, and state object has been commented.\n\n#### Useful Tools\n\nIf the app has issues, a helpful tool to debugging is the React Developer Tools browser extension for [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).\n\nReact syntax is very well supported in [Atom text editor](https://atom.io/), a free text editor with many useful packages for developers. It is available in the Self Service app store.\n\n### Reproducing the App\n\nFrom the terminal, navigate to the directory where the src folder is. For example:\n\n` cd rwof `\n\nMake any changes that may need to be made in src, and again from terminal:\n\n` npm run build `\n\nThis command will produce a production build of the app in vanilla webstack code. The contents of the *build* folder that appears level with *src* can be moved to a live web server.\n\n#### Important Little Things\n\nA production build will not work properly if the *package.json* file lacks an attribute for the homepage. This information gets translated to complete relative links written in \"syntactic sugar\" or short hand code.\n\nSo before running the **build** command, be sure to add the relative live address for where this app will live on the web server to *package.json* on the outermost attribute level on the tree. For example:\n\n`  \"homepage\": \"/projects/wof/news-e/realtime\" `\n\nis appropriate for a build that has its *index.html* placed at `https://www.nssl.noaa.gov/projects/wof/news-e/realtime`.\n\nIn this example, ` build ` was renamed to `realtime`.\n",
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"rwof\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"classnames\": \"^2.2.5\",\n    \"date-fns\": \"^1.29.0\",\n    \"react\": \"^16.3.2\",\n    \"react-dom\": \"^16.3.2\",\n    \"react-icons\": \"^2.2.7\",\n    \"react-router-dom\": \"^4.2.2\",\n    \"react-z-index\": \"^2.3.0\"\n  },\n  \"devDependencies\": {\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"^1.0.0\",\n    \"esdoc-jsx-plugin\": \"^1.0.0\",\n    \"esdoc-react-plugin\": \"^1.0.1\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"react-scripts\": \"1.0.11\"\n  },\n  \"homepage\": \"/projects/wof/news-e/realtime\",\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test --env=jsdom\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"esdoc\": {\n    \"source\": \"./src\",\n    \"destination\": \"./docs\",\n    \"plugins\": [{\n        \"name\": \"esdoc-standard-plugin\"\n      },{\n        \"name\": \"esdoc-react-plugin\"\n      },{\n        \"name\": \"esdoc-ecmascript-proposal-plugin\",\n        \"option\": {\n          \"all\": true\n        }\n      },{\n        \"name\": \"esdoc-jsx-plugin\",\n        \"option\": {\n          \"enable\": true\n        }\n    }]\n  }\n}\n",
+    "longname": "/Users/emily.grimes/Desktop/reactWOF/rwof/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
